@@ -1,53 +1,61 @@
-TODO, go through links from Hacker News, to show other people that have spotted this issue
+next,
 
-TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
+continue checking through initial research content, queuing up additional reading as I get pointers form the reading
+trying to answer the question: what is the state of the art on addressing the problem of trust in information, when you can never completely trust any document?
 
-TODO, The pirate community has dealt with this problem, how did they solve it?
-    Trust, essentially. They trust some sites, and some people to delivery, because they have shown they are trustworthy over time
+TODO
+    TODO, go through links from Hacker News, to show other people that have spotted this issue
 
-TODO, this is a magnification of the spam problem
-    Or: How do you find signal (human authored information whose information is useful to some party)
-    in the noise (spam, propaganda, bad actors, advertising, etc)
+    TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
 
-TODO, is this a tragedy of the commons?
-    Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
-    While those that seek to exchange information and make connection do have reason to preserve it
+    TODO, The pirate community has dealt with this problem, how did they solve it?
+        Trust, essentially. They trust some sites, and some people to delivery, because they have shown they are trustworthy over time
 
-idea, this is a spam problem, so what's the history of spam?
-idea, I think the issue might be that cost of producing high quality spam has lowered significantly, while at the same time the difficulty of detecting the spam has risen significantly
-    so much so that it almost takes an expert to tell the difference between a real document and a spam one
+    TODO, this is a magnification of the spam problem
+        Or: How do you find signal (human authored information whose information is useful to some party)
+        in the noise (spam, propaganda, bad actors, advertising, etc)
 
-idea, rather than binary trust, trust should be real-valued
-    that is, we're pretty sure we can trust an agent, but we can never be 100% certain
-    and there may be value in documents from those with lower repute
-    though their content should be held under suspicion
-    that is, guilty until proven innocent
+    TODO, is this a tragedy of the commons?
+        Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
+        While those that seek to exchange information and make connection do have reason to preserve it
 
-TODO, items sourced from "Prepare for the Textpocalypse"
-    see:
-    https://github.com/pjmattingly/research-repute/tree/main/bib/Prepare%20for%20the%20Textpocalypse
-    
-    here we see an early example of the spam problem
-    "Exactly that scenario already played out on a small scale when, last June, a tweaked version of GPT-J, an open-source model, was patched into the anonymous message board 4chan and posted 15,000 largely toxic messages in 24 hours."
+    TODO, items sourced from "Prepare for the Textpocalypse"
         see:
-        Lessons from the GPT-4Chan Controversy
-        https://archive.ph/zKLy0
-    
-    "William Safire, who was among the first to diagnose the rise of “content” as a unique internet category in the late 1990s, was also perhaps the first to point out that content need bear no relation to truth or accuracy in order to fulfill its basic function, which is simply to exist; or, as Kate Eichhorn has argued in a recent book about content, to circulate."
-        see:
-        On Language; The Summer Of This Content
-        https://archive.ph/HPcGz
+        https://github.com/pjmattingly/research-repute/tree/main/bib/Prepare%20for%20the%20Textpocalypse
+        
+        here we see an early example of the spam problem
+        "Exactly that scenario already played out on a small scale when, last June, a tweaked version of GPT-J, an open-source model, was patched into the anonymous message board 4chan and posted 15,000 largely toxic messages in 24 hours."
+            see:
+            Lessons from the GPT-4Chan Controversy
+            https://archive.ph/zKLy0
+        
+        "William Safire, who was among the first to diagnose the rise of “content” as a unique internet category in the late 1990s, was also perhaps the first to point out that content need bear no relation to truth or accuracy in order to fulfill its basic function, which is simply to exist; or, as Kate Eichhorn has argued in a recent book about content, to circulate."
+            see:
+            On Language; The Summer Of This Content
+            https://archive.ph/HPcGz
 
-    "We face, in essence, a crisis of never-ending spam, a debilitating amalgamation of human and machine authorship. From Finn Brunton’s 2013 book, Spam: A Shadow History of the Internet, we learn about existing methods for spreading spurious content on the internet, such as “bifacing” websites which feature pages that are designed for human readers and others that are optimized for the bot crawlers that populate search engines; email messages composed as a pastiche of famous literary works harvested from online corpora such as Project Gutenberg, the better to sneak past filters (“litspam”); whole networks of blogs populated by autonomous content to drive links and traffic (“splogs”); and “algorithmic journalism,” where automated reporting (on topics such as sports scores, the stock-market ticker, and seismic tremors) is put out over the wires. Brunton also details the origins of the botnets that rose to infamy during the 2016 election cycle in the U.S. and Brexit in the U.K."
-        Spam: A Shadow History of the Internet (Infrastructures)
-        https://www.amazon.com/dp/026252757X/?tag=theatl0c-20
-    
-    "Meanwhile, the editor of a long-running science-fiction journal released data that show a dramatic uptick in spammed submissions beginning late last year, coinciding with ChatGPT’s rollout. (Days later he was forced to close submissions altogether because of the deluge of automated content.)"
-        see:
-        A Concerning Trend
-        https://archive.ph/o/tnCyw/neil-clarke.com/a-concerning-trend/
+        "We face, in essence, a crisis of never-ending spam, a debilitating amalgamation of human and machine authorship. From Finn Brunton’s 2013 book, Spam: A Shadow History of the Internet, we learn about existing methods for spreading spurious content on the internet, such as “bifacing” websites which feature pages that are designed for human readers and others that are optimized for the bot crawlers that populate search engines; email messages composed as a pastiche of famous literary works harvested from online corpora such as Project Gutenberg, the better to sneak past filters (“litspam”); whole networks of blogs populated by autonomous content to drive links and traffic (“splogs”); and “algorithmic journalism,” where automated reporting (on topics such as sports scores, the stock-market ticker, and seismic tremors) is put out over the wires. Brunton also details the origins of the botnets that rose to infamy during the 2016 election cycle in the U.S. and Brexit in the U.K."
+            Spam: A Shadow History of the Internet (Infrastructures)
+            https://www.amazon.com/dp/026252757X/?tag=theatl0c-20
+        
+        "Meanwhile, the editor of a long-running science-fiction journal released data that show a dramatic uptick in spammed submissions beginning late last year, coinciding with ChatGPT’s rollout. (Days later he was forced to close submissions altogether because of the deluge of automated content.)"
+            see:
+            A Concerning Trend
+            https://archive.ph/o/tnCyw/neil-clarke.com/a-concerning-trend/
 
-    TODO, check the author and their works
-    are they knowledgable on this subject?
-    do the listed works (or other related works) seem relevant?
-        "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
+        TODO, check the author and their works
+        are they knowledgable on this subject?
+        do the listed works (or other related works) seem relevant?
+            "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
+
+IDEAs
+    idea, this is a spam problem, so what's the history of spam?
+
+    idea, I think the issue might be that cost of producing high quality spam has lowered significantly, while at the same time the difficulty of detecting the spam has risen significantly
+        so much so that it almost takes an expert to tell the difference between a real document and a spam one
+
+    idea, rather than binary trust, trust should be real-valued
+        that is, we're pretty sure we can trust an agent, but we can never be 100% certain
+        and there may be value in documents from those with lower repute
+        though their content should be held under suspicion
+        that is, guilty until proven innocent

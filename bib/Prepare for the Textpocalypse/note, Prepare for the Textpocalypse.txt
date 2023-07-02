@@ -4,7 +4,7 @@ Prepare for the Textpocalypse
 
 local copy
     see:
-    ./AI Is Ushering in a Textpocalypse - The Atlantic.pdf
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Prepare%20for%20the%20Textpocalypse/AI%20Is%20Ushering%20in%20a%20Textpocalypse%20-%20The%20Atlantic.pdf
 
 ----
 
