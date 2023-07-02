@@ -1,0 +1,49 @@
+Prepare for the Textpocalypse
+    see:
+    https://www.theatlantic.com/technology/archive/2023/03/ai-chatgpt-writing-language-models/673318/
+
+local copy
+    see:
+    ./AI Is Ushering in a Textpocalypse - The Atlantic.pdf
+
+----
+
+"Simple, plain, unadorned text, but in quantities so immense as to be all but unimaginable—a tsunami of text swept into a self-perpetuating cataract of content that makes it functionally impossible to reliably communicate in any digital setting?"
+
+"Our relationship to the written word is fundamentally changing. So-called generative artificial intelligence has gone mainstream through programs like ChatGPT, which use large language models, or LLMs, to statistically predict the next letter or word in a sequence, yielding sentences and paragraphs that mimic the content of whatever documents they are trained on."
+
+here we see an early example of the spam problem
+    "Exactly that scenario already played out on a small scale when, last June, a tweaked version of GPT-J, an open-source model, was patched into the anonymous message board 4chan and posted 15,000 largely toxic messages in 24 hours."
+
+"Say someone sets up a system for a program like ChatGPT to query itself repeatedly and automatically publish the output on websites or social media; an endlessly iterating stream of content that does little more than get in everyone’s way, but that also (inevitably) gets absorbed back into the training sets for models publishing their own new content on the internet."
+
+Here is a scenario where spam could vastly outnumber real documents, such that real documents get lost in the noise
+and it's hard to tell what to trust
+    "What if lots of people—whether motivated by advertising money, or political or ideological agendas, or just mischief-making—were to start doing that, with hundreds and then thousands and perhaps millions or billions of such posts every single day flooding the open internet, commingling with search results, spreading across social-media platforms, infiltrating Wikipedia entries, and, above all, providing fodder to be mined for future generations of machine-learning systems?"
+
+    "We may quickly find ourselves facing a textpocalypse, where machine-written language becomes the norm and human-written prose the exception."
+
+"Like the prized pen strokes of a calligrapher, a human document online could become a rarity to be curated, protected, and preserved."
+
+how to know what to believe when everything is suspect?
+    "Think of it as an ongoing planetary spam event, but unlike spam—for which we have more or less effective safeguards—there may prove to be no reliable way of flagging and filtering the next generation of machine-made text. “Don’t believe everything you read” may become “Don’t believe anything you read” when it’s online."
+
+previous efforts at spam required human effort, which makes it more expensive than LLMs
+thus LLMs can do at scale, what it took a group of people to produce
+    "Content farms that churn out low-quality prose to attract adware employ these tools, but they still depend on legions of under- or unemployed creatives to string characters into proper words, words into legible sentences, sentences into coherent paragraphs. Once automating and scaling up that labor is possible, what incentive will there be to rein it in?"
+
+"William Safire, who was among the first to diagnose the rise of “content” as a unique internet category in the late 1990s, was also perhaps the first to point out that content need bear no relation to truth or accuracy in order to fulfill its basic function, which is simply to exist; or, as Kate Eichhorn has argued in a recent book about content, to circulate."
+
+"This is to say nothing of even darker agendas, such as the kind of information warfare we now see across the global geopolitical sphere. The AI researcher Gary Marcus has demonstrated the seeming ease with which language models are capable of generating a grotesquely warped narrative of January 6, 2021, which could be weaponized as disinformation on a massive scale."
+
+"We face, in essence, a crisis of never-ending spam, a debilitating amalgamation of human and machine authorship. From Finn Brunton’s 2013 book, Spam: A Shadow History of the Internet, we learn about existing methods for spreading spurious content on the internet, such as “bifacing” websites which feature pages that are designed for human readers and others that are optimized for the bot crawlers that populate search engines; email messages composed as a pastiche of famous literary works harvested from online corpora such as Project Gutenberg, the better to sneak past filters (“litspam”); whole networks of blogs populated by autonomous content to drive links and traffic (“splogs”); and “algorithmic journalism,” where automated reporting (on topics such as sports scores, the stock-market ticker, and seismic tremors) is put out over the wires. Brunton also details the origins of the botnets that rose to infamy during the 2016 election cycle in the U.S. and Brexit in the U.K."
+
+a real life case study of the effects of easy spam with LLMs
+    "Meanwhile, the editor of a long-running science-fiction journal released data that show a dramatic uptick in spammed submissions beginning late last year, coinciding with ChatGPT’s rollout. (Days later he was forced to close submissions altogether because of the deluge of automated content.)"
+
+    see:
+    https://archive.ph/o/tnCyw/neil-clarke.com/a-concerning-trend/
+    https://archive.ph/o/tnCyw/https://twitter.com/clarkesworld/status/1627721829270814746?s=61&t=aOjAWPKI62QDMKuK0uN0Cw
+
+then, the author and their related works
+    "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
