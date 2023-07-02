@@ -1,0 +1,28 @@
+TODO, go through links from Hacker News, to show other people that have spotted this issue
+
+TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
+
+TODO, The pirate community has dealt with this problem, how did they solve it?
+    Trust, essentially. They trust some sites, and some people to delivery, because they have shown they are trustworthy over time
+
+TODO, this is a magnification of the spam problem
+    Or: How do you find signal (human authored information whose information is useful to some party)
+    in the noise (spam, propaganda, bad actors, advertising, etc)
+
+TODO, is this a tragedy of the commons?
+    Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
+    While those that seek to exchange information and make connection do have reason to preserve it
+
+idea, this is a spam problem, so what's the history of spam?
+idea, I think the issue might be that cost of producing high quality spam has lowered significantly, while at the same time the difficulty of detecting the spam has risen significantly
+    so much so that it almost takes an expert to tell the difference between a real document and a spam one
+
+idea, rather than binary trust, trust should be real-valued
+    that is, we're pretty sure we can trust an agent, but we can never be 100% certain
+    and there may be value in documents from those with lower repute
+    though their content should be held under suspicion
+    that is, guilty until proven innocent
+
+TODO, items sourced from Prepare for the Textpocalypse
+    see:
+    
