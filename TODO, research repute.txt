@@ -47,6 +47,202 @@ TODO
         are they knowledgable on this subject?
         do the listed works (or other related works) seem relevant?
             "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
+    
+    TODO, reading
+        this poster seems to illustrate the process of looking for well-attributed links in Google
+        or deciding which content isn't spam
+
+        see:
+        Googling for answers costs you time
+        https://news.ycombinator.com/item?id=36565225
+
+    TODO, reading
+        this talks about the difficulty of detecting AT generated text
+
+        see:
+        AI-generated text is hard to spot. It could play a big role in the 2024 campaign
+        https://text.npr.org/1183684732
+
+        and:
+        https://news.ycombinator.com/item?id=36522430
+
+    TODO, reading
+        I've read this before, but it needs to be noted
+
+        I believe that Hacker News is a system in the wild that implements a proto-form of repute-based discussion and trust
+        you get points for posting, and making good comments
+        there are no downvotes
+        those without a lot of points aren't as visisble
+
+        this article talks about Hacker News developed
+        it seems like a logical out growth of Reddit and its drawbacks
+
+        see:
+        https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
+
+        and:
+        https://en.wikipedia.org/wiki/Hacker_News
+
+    TODO, reading
+        Blockchain Consensus Algorithms
+        https://medium.com/insatiableminds/blockchain-consensus-algorithms-46a9e98c8c07
+
+        this article has a sentence that looks very promising:
+
+        ```
+        Byzantine problem highlights the troubles of dealing with a system filled with independent and untrustworthy nodes that need to collaborate together and come up with consensus.
+
+        Sounds familiar? (Cough: Blockchain)
+        ```
+
+        this may indicate that my earlier intuitions about Blockchain were well founded
+        and Blockchain might be a good basis for tracking repute
+        where repute can be thought of as "personal capital"
+
+    TODO, Anathem started me off thinking about repute, does it have a reference section so I can find out what inspired Stephenson to talk about it?
+        see:
+        https://en.wikipedia.org/wiki/Anathem
+
+        and:
+        https://www.nealstephenson.com/acknowledgments.html
+        https://anathem.fandom.com/wiki/Anathem_Wiki
+
+    TODO, add notation in README that explains what the different files and section are
+
+    TODO, reading list
+        links and stories from Hacker News that seem to relate to the topic of repute
+
+        G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
+        https://www.nytimes.com/2023/06/19/technology/gop-disinformation-researchers-2024-election.html
+
+        --
+
+        Misinformation is at Most Weakly Related to Lack of Knowledge
+        https://reasonalone.substack.com/p/misinformation-is-at-most-weakly
+
+        --
+
+        How to Prepare for the Deluge of Generative AI on Social Media
+        https://knightcolumbia.org/content/how-to-prepare-for-the-deluge-of-generative-ai-on-social-media
+
+        --
+
+        The Internet Is Already Broken
+        https://wheresyoured.at/p/the-internet-is-already-broken
+
+        --
+
+        Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
+        https://archive.ph/eiAYQ#selection-517.0-517.67
+
+        --
+
+        Generative agents and artificial societies
+        https://www.generational.pub/p/generative-agents-and-artificial
+
+        --
+
+        THE DATA TRUST DEFICIT
+        https://dl.acm.org/doi/pdf/10.1145/3605240
+
+        --
+
+        Personal Lessons From LLMs
+        https://matt-rickard.com/personal-lessons-from-llms
+
+        --
+
+        30 Signs You Are Living in an Information Crap-pocalypse
+        https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information
+
+        --
+
+        Junk websites filled with AI-generated text are pulling in money from programmatic ads
+        https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/
+
+        --
+
+        Reddit Won’t Be the Same. Neither Will the Internet
+        https://www.wired.com/story/reddit-api-changes-ai-labor/
+
+        --
+
+        How Long Can Open-Source LLMs Truly Promise on Context Length?
+        https://lmsys.org/blog/2023-06-29-longchat/
+
+        --
+
+        The Noise Bottleneck: When More Information is Harmful
+        https://fs.blog/noise-and-signal-nassim-taleb/
+
+        --
+
+        Sharing Information Corrupts Wisdom of Crowds
+        https://archive.ph/FKxaB
+
+    TODO, reading
+        works assocaited with "Decentralized Identity — Owning It!"
+            see:
+            https://medium.com/coinmonks/decentralized-identity-owning-it-94987f97649f
+
+        --
+
+        Secure Multi-Party Computing (sMPC) — Collaboration Without Sharing
+        https://medium.com/coinmonks/secure-multi-party-computing-smpc-collaboration-without-sharing-f92b4a6e3ceb
+
+        --
+
+        What is Blockchain?
+        https://medium.com/insatiableminds/what-is-blockchain-8a760d30b802
+
+        --
+
+        zero knowledge proofs, where we may be able to use them to verify evidence of a statement or identity without revealing additional information to an untrusted querier
+            Zero Knowledge Proofs: An illustrated primer
+            https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
+
+            --
+
+            Awesome zero knowledge proofs
+            https://github.com/matter-labs/awesome-zero-knowledge-proofs
+
+            --
+
+            Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED
+            https://www.youtube.com/watch?v=fOGdb1CTu5c
+
+        --
+
+        a real world example of using block chain for identities
+            see:
+
+            Inside the Jordan refugee camp that runs on blockchain
+            https://www.technologyreview.com/2018/04/12/143410/inside-the-jordan-refugee-camp-that-runs-on-blockchain/
+
+        --
+
+        the W3C definition of a verifiable credential
+        which seems helpful for reference, just in case the concept of a verifiable credential turns out to be a good fit for managing individual identity
+            see:
+            Verifiable Credentials Data Model v1.1
+            https://www.w3.org/TR/vc-data-model/#:~:text=A%20verifiable%20credential%20is%20a,can%20be%20about%20different%20subjects
+
+        --
+
+        they also talk about the conept of "revokation" in the article
+        where it's sometimes need to "revoke" a credential
+        or when updating information
+            "This has obvious use cases for professional credentials being revoked for fraud or misconduct, and for driver's licenses being revoked for criminal activity."
+
+            "In addition, it seems likely that the data inside credentials will change over time (e.g., a person's mailing address or phone number updates). This is likely to be quite common, revocation can be used to guarantee currency of credential data when it happens. In other words, revocation may be used to force updated data, not just to revoke authorization."
+
+            --
+
+            0011: Credential Revocation
+            https://github.com/hyperledger/indy-hipe/tree/master/text/0011-cred-revocation
+
+
+----------------
 
 IDEAs
     idea, this is a spam problem, so what's the history of spam?
