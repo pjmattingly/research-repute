@@ -1,0 +1,76 @@
+The Shape of Interfaces to Come
+https://medium.com/@jasonlmcaffee/the-shape-of-interfaces-to-come-f5deae34a483
+
+see:
+https://github.com/pjmattingly/research-repute/blob/main/bib/The%20Shape%20of%20Interfaces%20to%20Come/The%20Shape%20of%20Interfaces%20to%20Come.%20Natural%20Language%20Interfaces%20(NLIs)%20are%E2%80%A6%20_%20by%20Jason%20McAffee%20_%20Jun%2C%202023%20_%20Medium.pdf
+
+--
+
+"In this article we will explore a brief history of Natural Language Interfaces, the capabilities of Large Language Models which can be utilized through NLIs, as well as assess the impact LLMs will likely have on the capabilities exposed through NLIs."
+
+"ChatGPT’s primary function is to emulate a human conversationalist, adept in writing and debugging computer programs, imitating various personas by writing in similar style, composing music, writing stories, writing student essays, answering test questions, writing poetry and song lyrics, language translation, sentiment analysis, few shot learning, contextual learning, emulating computer systems, playing games… the list of capabilities is exhaustive, and it’s capabilities are progressing at an almost logarithmic rate. ChatGPT-4 is a notable enhancement over GPT-3, and has yet to be made freely available to the public."
+
+"Sentiment Analysis
+Sentiment analysis involves discerning emotions, evaluations, opinions, intentions, and aspects within a given text. This capability of AI can prove invaluable in understanding user feedback, interpreting social media sentiment, and much more."
+
+"Image Generation
+The advent of AI-powered tools like Midjourney and DALL-E has revolutionized the process of image creation. It’s now possible to generate images featuring any style, scenario, subject, or landscape you can envision. The quality of the output is often so high that it becomes nearly impossible to distinguish the generated images from actual photographs of real-world scenes or individuals."
+
+"Image Classification
+
+Image Classification has allowed us to interpret and categorize the visual world in ways that were previously unfathomable. With image classification, AI algorithms can categorize and label images based on their content, identifying elements such as objects, places, people, writing, and even actions. This technology is at the heart of facial recognition systems, self-driving vehicles, and various applications in healthcare, agriculture, and security. Whether it’s recognizing a cat in a photo, identifying cancerous cells in a medical scan, or analyzing satellite imagery to track climate change, image classification provides us with an invaluable tool to make sense of the vast amount of visual data we generate and collect every day."
+
+"Language Translation
+Large Language Models possess the remarkable ability to translate hundreds of languages with a proficiency that is strikingly close to human capability. This not only breaks down barriers of communication but also promotes cultural exchange and understanding on a global scale."
+
+"Sequential Recommender Systems
+Sequential recommender systems are a powerful feature of AI that can discern patterns in sequential user actions and use this information to predict and recommend potential future actions. These systems can be extremely valuable in numerous settings, particularly in customer service and marketing."
+
+"Code Generation
+Code generation is an exciting application of AI, allowing Large Language Models to write or assist in writing computer programs. This ability empowers developers to speed up their workflow, automate repetitive tasks, and even bridge gaps in their own programming knowledge.
+
+For example, AI-powered models such as Codex or GPT-4 can generate a range of code snippets, from simple HTML structures to more complex JavaScript functions, all based on a descriptive prompt given by the user. These models can be given a problem statement or a specification in plain English, and they will generate the corresponding code.
+"
+
+"Named Entity Recognition
+Named Entity Recognition (NER) is an integral aspect of Natural Language Processing, dedicated to identifying and categorizing specific elements within a piece of text. These elements, referred to as ‘named entities’, could be people’s names, company names, geographical locations, dates, product names, or even specific numeric expressions like money and percentages."
+
+"Emergent Abilities
+Emergence, a phenomenon observed in various complex systems, has also been witnessed in the realm of AI. As the number of parameters and the training data increase in AI models, there is a higher likelihood of unexpected abilities emerging. These newfound capabilities, not explicitly trained on, are known as emergent abilities."
+
+"In Context Learning via Prompt Engineering
+Another notable emergent ability in Large Language Models (LLMs) lies in their capability to learn through prompt engineering. Prompt engineering involves providing a pre-trained language model with specific prompts or instructions, allowing it to generate desired responses without further parameter updates or training."
+
+"Chain of Thought
+
+Chain of Thought represents a technique in prompt engineering that involves guiding the model through a series of intermediary reasoning steps, enabling it to handle complex reasoning tasks. By breaking down the problem into manageable steps and providing exemplars, the model can develop the ability to perform operations it has not been explicitly trained on."
+
+"Affordances
+
+Affordances play a crucial role in prompt engineering by allowing us to define the boundaries and limitations of what a model can answer. They provide a means to restrict the scope of responses, which can be particularly valuable for organizations seeking to ensure that their AI chatbots or language models focus on specific topics or domains.
+
+For instance, consider a custom ChatGPT tailored for a finance-related application. By implementing affordances, we can establish guardrails that confine the model’s responses to questions and inquiries related to finance. This ensures that the model provides accurate and relevant information within the designated domain."
+
+"Slack GPT
+One of the upcoming features is the ability to summarize entire threads. With Slack GPT, users will have the option to generate concise summaries of lengthy discussions, condensing the key points and highlights into a more digestible format. This will significantly aid in reviewing and extracting valuable insights from extensive conversations, saving time and improving productivity."
+
+"Another intriguing capability of Slack GPT is the ability to modify the tone of a given message. Users will have the option to adjust the tone, making it more formal, casual, friendly, or professional, depending on the desired communication style. This feature will empower users to tailor their messages to suit specific contexts and audiences, enhancing the clarity and impact of their communication."
+
+"Text Summarization of Meetings
+
+One of the key features of Zoom IQ is the ability to summarize entire meetings. Leveraging advanced natural language processing and machine learning algorithms, Zoom IQ can generate concise summaries of meetings, capturing the key points and discussions. This feature streamlines post-meeting reviews, allowing participants to quickly grasp the main takeaways and follow-up actions without needing to revisit the entire meeting recording."
+
+"Speech Analysis
+
+Furthermore, Zoom IQ empowers users with in-depth analysis and metrics. It provides valuable insights such as talk time, sentiment analysis, and talk speed for individual speakers. Users can gain a deeper understanding of meeting dynamics, identifying the distribution of speaking time, the overall sentiment of discussions, and the pace at which participants are communicating. These metrics enable better meeting management, facilitate equal participation, and enhance overall engagement and collaboration."
+
+"Photoshop
+Adobe Photoshop has introduced capabilities that leverage the power of natural language to manipulate and transform photos. With this innovative feature, users can now describe their desired edits using natural language, allowing Photoshop to generate images, swap clothes, erase unwanted elements, and perform a range of sophisticated manipulations.
+
+For example, users can describe their intent, such as “Remove the background and replace it with a beach scene,” or “Swap the clothes between the two individuals in the photo.” Photoshop’s AI-powered algorithms analyze the natural language instructions and perform the necessary edits to achieve the desired results."
+
+--
+
+a simple summary of some capabilities of Machine Learning and LLms specifically
+
+an article so bland and shallow it could have been written by an AI
