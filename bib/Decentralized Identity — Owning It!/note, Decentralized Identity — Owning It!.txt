@@ -1,0 +1,80 @@
+Decentralized Identity — Owning It!
+https://medium.com/coinmonks/decentralized-identity-owning-it-94987f97649f
+
+local
+    see:
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Decentralized%20Identity%20%E2%80%94%20Owning%20It!/Decentralized%20Identity%20%E2%80%94%20Owning%20It!%20_%20by%20Mabel%20Oza%20_%20Coinmonks%20_%20Medium.pdf
+
+--
+
+identities solutions via blockchain?
+    "Taking back ownership of our data would change everything, which is possible using blockchain identity solutions."
+
+"Decentralized identity projects enable people to secure identity and easily share it worldwide."
+
+"With the immutable nature of blockchain, corrupt governments can't delete identities or prevent people from accessing them. An excellent example of this scenario is when Jordan refugee camps used blockchain to create identities for Syrian refugees in 2018."
+
+evidence is presented for events that are associated with an identity
+    "Our identity evolves from different events in our life like education, career, residence, marital status, etc. In blockchain identity solutions, we break up those individual events and allow various parties to issue a verification that those events happened. For instance, your school can verify that you got your degree but can't verify your current residence."
+
+verifiable credentials
+    "Verifiable Credentials (VC)
+    Different identity pieces (i.e., degree, place of residence, etc.) are all referred to as verifiable credentials."
+
+setup for an example of verification of a part of an identity
+    ```
+    Roles in Blockchain Identity Solutions
+    Today, we will play the role of a hiring manager (Bob), and we need to verify if Alice got a Ph.D. at the University of Chicago or if she's embellishing her resume.
+
+    Holder: Credential manager and owner. This is the only person/organization authorized to share their credentials and select what piece of their identity they're willing to share. In this scenario, Alice is the holder.
+
+    Subject: is the person, animal, or thing that the credentials are about. Sometimes the holder wouldn't be the 'subject' if the credential is for a child or animal. In this scenario, Alice is also the subject.
+    Issuer: Credential creator. This is the person/organization that would create the credentials for the holders on behalf of the subject. Even though they make the credentials, they cannot share them with anyone besides the holder (cryptographically, it's impossible). In this scenario, the Univesity of Chicago is the issuer.
+
+    Verifier: Credential viewer. This is the person/organization that requests the credentials for verification, they will only be presented the credentials if the holder authorizes it. In this scenario, Bob, the hiring manager, is the verifier.
+
+    Verifiable Data Registry: Credential validator. This is either a government database or in our scenario a blockchain network. Every verification credential is registered into the blockchain with a DID (Decentralized Identifier).
+    ```
+
+```
+How do Verifications Work?
+Bob asks Alice for proof that she attended her University
+Alice creates a verifiable presentation. The verifiable presentation is like a verifiable credential but only has the attributes relevant to Bob's needs (she doesn't need to share her GPA, just the fact she attended the University).
+She shares it with Bob, and Bob can verify it on the blockchain network using the DID (Decentralized Identifier)
+```
+
+"DID (Decentralized Identifiers)
+DIDs are fundamental building blocks of SSI (Self Sovereign Identity) systems; they are unique identity identifiers (URIs). DIDs allow people/organizations to prove pieces of their identity using cryptographic proofs like digital signatures. All DIDs are held in a crypto wallet like that box at home containing the birth certificate, marriage certificates, scuba diving certificate, etc."
+
+"Revocation
+How do we revoke a credential if it's false or no longer valid? This happens when organizations make mistakes, or specific credentials have expirations (i.e., visas). With the immutability of a blockchain network, correcting these mistakes can be pretty tricky.
+
+When a credential changes or we need to revoke it, we don't remove it; instead, we invalidate it. Since there are invalid DID's out there; we need to cross-check with a revocation registry in every proof."
+
+"Revocations at a High Level
+We are just checking to see if the issuer and holder can get the same answer to this math problem represented in the proof. If it's not equal, then the credential is invalid. No one is running these calculations on the fly. The issuer runs this calculation when registering a revocation to the registry, and the holder has the answer to this calculation when they were issued the credential."
+
+zero knowledge proof
+    "What about Privacy? Zero-Knowledge Proofs (ZKPs)
+What if Bob (Alice's hiring manager) wanted to verify her residence, but he couldn't know the address. This is where zero-knowledge proofs (ZKPs) come into play, it's a probabilistic way to prove that something is true without revealing additional information. It solves the scenario where we don't trust the verifier. The idea is that you are convincing someone you know a fact without ever revealing what that fact is."
+
+--
+
+the article does a good overview of some blockchain concepts that seem helpful
+it serves as a pointer to further reading
+because if we consider repute to be a commodity that changes with time and is held by an entity
+then the concepts from the article seem to fit very well for the needs of a system that we want to:
+
+verify identities
+see if they have a certain amount of repute
+and we don't want to trust entities that are querying the level of repute of individual entites
+
+verifiable credentials, seem to be a good fit for gathering evidence related to an entity
+    "In blockchain identity solutions, we break up those individual events and allow various parties to issue a verification that those events happened. For instance, your school can verify that you got your degree but can't verify your current residence."
+
+then DIDs are this evidence
+    "DIDs are fundamental building blocks of SSI (Self Sovereign Identity) systems; they are unique identity identifiers (URIs). DIDs allow people/organizations to prove pieces of their identity using cryptographic proofs like digital signatures."
+
+then use zero knowledge proofs to show with a good amount of certainty that the evidence holds
+all without giving away additional information to a querier
+    "What if Bob (Alice's hiring manager) wanted to verify her residence, but he couldn't know the address. This is where zero-knowledge proofs (ZKPs) come into play, it's a probabilistic way to prove that something is true without revealing additional information."
