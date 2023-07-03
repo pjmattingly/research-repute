@@ -1,0 +1,62 @@
+jason mcaffee
+
+author of:
+
+The Shape of Interfaces to Come
+https://medium.com/@jasonlmcaffee/the-shape-of-interfaces-to-come-f5deae34a483
+
+they claim to be
+
+```
+Jason McAffee
+Fullstack Software Engineer
+```
+
+A quick search shows nothing.
+
+Doing a google image search for their picture, shows nothing.
+
+A search for "Jason McAffee medium full stack", then shows a picture that seems pretty close
+    see:
+    https://www.google.com/search?rlz=1C1ONGR_enCA1021CA1021&sxsrf=AB5stBilHqWqLyKv6PLG1_GZ7FffffNakQ:1688410370276&q=Jason+McAffee+medium+full+stack&tbm=isch&source=univ&fir=FrNlfJoFA__rNM%252CA50gZReEZSlQVM%252C_%253BYPVgQ_NniuJ4MM%252C1L2kvlpFoB6LWM%252C_%253BVIFgO0xtWBAhxM%252CvUzl6U34BcsRlM%252C_%253BmxGsuBqBlPa43M%252CSeNmBOWqf2G0LM%252C_%253BXrWCO_a6DhklLM%252C2HXg1r0nBdeBUM%252C_%253B6JSjfzpc_2SP0M%252CEl1XjebedVXXWM%252C_%253B-HVp3SzdD2GzFM%252CA50gZReEZSlQVM%252C_%253B5w6AXFAwZjlQWM%252Cg7_z4xm1U607RM%252C_%253BUKuBXJYHRiQA1M%252CA50gZReEZSlQVM%252C_%253B55-AUOuKSNrFnM%252COlAPKU_VbkUV6M%252C_&usg=AI4_-kQRvaYalsoPQ_OKaX4LrY6fakCZwA&sa=X&ved=2ahUKEwjGyevimvP_AhUwGDQIHRRcBFwQ7Al6BAgKEBM
+    
+    https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1hbpr09pwz0sk.cloudfront.net%2Fprofile_pic%2Fjason-mcaffee-5aba1c8f&tbnid=VIFgO0xtWBAhxM&vet=12ahUKEwiu9djmmvP_AhVQHjQIHZ71BS4QMygCegQIARAx..i&imgrefurl=https%3A%2F%2Frocketreach.co%2Fjason-mcaffee-email_10157286&docid=vUzl6U34BcsRlM&w=200&h=200&itg=1&q=Jason%20McAffee%20medium%20full%20stack&ved=2ahUKEwiu9djmmvP_AhVQHjQIHZ71BS4QMygCegQIARAx
+
+Which redirects to "RocketReach" (?)
+    see:
+    https://rocketreach.co/jason-mcaffee-email_10157286
+
+Which shows them working at "Sofi"
+
+A search for "Sofi" shows it is a real company
+    see:
+    https://www.crunchbase.com/organization/social-finance
+
+Taking a look at their site, they don't have a "team" section, so I can't verify if Jason is actually a part of this organization.
+    see:
+    https://www.sofi.com/
+
+But then a search for "jason mcaffee fullstack sofi" shows a linkedin profile that seems similar
+And the search is related to the google image hit we saw before
+
+Then without further leads, a search of linked in for "jason mcaffee"
+    see:
+    https://www.linkedin.com/search/results/people/?firstName=Jason&lastName=Mcaffee&origin=SEO_PSERP
+
+Which then leads to the actual person
+    see:
+    https://www.linkedin.com/in/jasonmcaffee/
+
+The picture matches.
+There's a link to the article I found that seemed to be authored by them.
+And the "Experience" section shows them working at Sofi.
+
+So, they seem to be a real person, and have a good amount of experience in software development.
+
+note
+    strange that a google search didn't show this as a hit, since the name is an exact match
+    and the position at Sofi
+    And it shows an article by Medium
+
+    Perhaps LinkedIn restrict google searches somehow?
+
