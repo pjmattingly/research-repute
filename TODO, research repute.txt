@@ -1,7 +1,7 @@
 next,
 
-continue checking through initial research content, queuing up additional reading as I get pointers form the reading
-trying to answer the question: what is the state of the art on addressing the problem of trust in information, when you can never completely trust any document?
+reading:
+What to know about a fake job scam impersonating GitLab
 
 TODO
     TODO, go through links from Hacker News, to show other people that have spotted this issue

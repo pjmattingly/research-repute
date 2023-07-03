@@ -1,0 +1,4 @@
+What to know about a fake job scam impersonating GitLab
+https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/
+
+local:
