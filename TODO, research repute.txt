@@ -59,3 +59,6 @@ IDEAs
         and there may be value in documents from those with lower repute
         though their content should be held under suspicion
         that is, guilty until proven innocent
+
+    idea, what about game theory?
+        is there a theory of trust that is modeled by game theory?
