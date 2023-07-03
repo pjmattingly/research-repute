@@ -1,0 +1,46 @@
+RocketReach
+
+First seen when looking into "Jason McAffee". They had details about them when other sources didn't.
+
+What is RocketReach?
+    see:
+    https://rocketreach.co/
+    https://www.linkedin.com/company/rocketreach.co/
+
+Gartner has a notation, but it's reviews look to be AI generated.
+    see:
+    https://www.gartner.com/reviews/market/data-intelligence-solutions-for-sales/vendor/rocketreach/product/rocketreach
+
+Crunchbase has an entry, and shows some funding. So they seem to be a real company.
+    see:
+    https://www.crunchbase.com/organization/rocketreach-co
+
+Then, they have a mention in this article from the AP
+    see:
+
+    Email Marketing Examples Small Businesses Can Follow Post-Pandemic
+    https://apnews.com/press-release/accesswire/technology-email-small-business-business-health-5357e29ee00f5f7763fb07ebdb00c000
+
+    --
+
+    "For small businesses that do not have an email list, and are impatient like most entrepreneurs, there is an alternative option on how to build an email list. To find email addresses quickly, there are contact finder tools like Swordfish AI, Zoominfo, Lusha, RocketReach, ContactOut, Uplead, Aeroleads, and others."
+
+Then this describes them as we've seen elsewhere, a way to find contact information.
+
+Then other articles with similar discussion about them
+    see:
+    How did my phone number end up for sale on a US database?
+    https://www.bbc.com/news/technology-57443597
+
+    RocketReach LLC
+    https://www.bloomberg.com/profile/company/1822057D:US#xj4y7vzkg
+
+    The 7 Best Chrome Extensions for Finding Anyone’s Email Address
+    https://www.makeuseof.com/chrome-extensions-finding-email-addresses/
+
+    Social-Media-Osint
+    A collection of most useful tools for social media osint.
+    https://github.com/InfuriousICC/Social-Media-Osint
+
+So, they seem to be a good resource for finding details on people.
+A so called "contact finder" or a resouce for "Social Media Open source intelligence"
