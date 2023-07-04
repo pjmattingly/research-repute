@@ -1,0 +1,13 @@
+AI-generated text is hard to spot. It could play a big role in the 2024 campaign
+https://text.npr.org/1183684732
+
+--
+
+""AI-generated text might be the best of both worlds [for propagandists]", said Shelby Grossman, a scholar at the Stanford Internet Observatory at a recent talk."
+
+"Using a large language model that's a predecessor of ChatGPT, researchers at Stanford and Georgetown created fictional stories that swayed American readers' views almost as much as real examples of Russian and Iranian propaganda."
+
+"The Stanford and Georgetown researchers found that with a little human editing, model-generated articles affected reader opinion to a greater extent than the foreign propaganda that seeded the computer model. Their paper is currently under review."
+
+"And catching this, right now, is hard. While there are still some ways to tell AI-generated images, software aimed at detecting machine-generated text - like Open AI's classifier and GPTZero - often fail. Technical solutions like watermarking the text that AI produces has been floated, but none are in place at the moment."
+
