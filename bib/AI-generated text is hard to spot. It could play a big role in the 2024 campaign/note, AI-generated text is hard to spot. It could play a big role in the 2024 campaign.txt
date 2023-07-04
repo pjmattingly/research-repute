@@ -1,6 +1,9 @@
 AI-generated text is hard to spot. It could play a big role in the 2024 campaign
 https://text.npr.org/1183684732
 
+local
+https://github.com/pjmattingly/research-repute/blob/main/bib/AI-generated%20text%20is%20hard%20to%20spot.%20It%20could%20play%20a%20big%20role%20in%20the%202024%20campaign/AI-generated%20text%20is%20hard%20to%20spot.%20It%20could%20play%20a%20big%20role%20in%20the%202024%20campaign.pdf
+
 --
 
 ""AI-generated text might be the best of both worlds [for propagandists]", said Shelby Grossman, a scholar at the Stanford Internet Observatory at a recent talk."
@@ -11,3 +14,16 @@ https://text.npr.org/1183684732
 
 "And catching this, right now, is hard. While there are still some ways to tell AI-generated images, software aimed at detecting machine-generated text - like Open AI's classifier and GPTZero - often fail. Technical solutions like watermarking the text that AI produces has been floated, but none are in place at the moment."
 
+"Generative AI also doesn't have to write tweets carrying propagandists' messages to be useful. It can also be used to maintain automated accounts by writing human-like content for them to post before they become part of a concerted campaign to push one message - therefore lowering the chance that the automated accounts get caught by social media platforms, Musser says."
+
+The signal gets lost in the noise
+    "Both the Stanford-Georgetown study and Musser's analysis assumed that there has to be some kind of quality control on the propaganda written by a computer. But quality doesn't always matter. Multiple researchers noted how machine-generated text could be effective for flooding the field rather than getting engagement.
+
+    "If you say the same thing a thousand times on a social media platform, that's an easy way to get caught." says Darren Linvill at Clemson University's Media Forensics Hub. Linvill investigates online influence campaigns, often from Russia and China."
+
+    "But if you say the same thing slightly differently a thousand times, you're far less likely to get caught."
+
+    "And that might just be the goal for some influence operations, Linvill says - to flood the field to such an extent that real conversations cannot happen at all."
+        see:
+        Pro-China Twitter Accounts Flood Hashtag Critical of Beijing Winter Olympics
+        https://archive.ph/TAcx5#selection-3973.9-3973.85
