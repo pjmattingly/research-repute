@@ -2,7 +2,45 @@ The Evolution Of Hacker News
 https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
 
 local
+https://github.com/pjmattingly/research-repute/blob/main/bib/The%20Evolution%20Of%20Hacker%20News/The%20Evolution%20Of%20Hacker%20News%20_%20TechCrunch.pdf
 
 --
 
 "He wanted to make Hacker News a place to recreate the way Reddit felt in the good old days, when most of its community was made up of hackers."
+
+"Part of what attracted many to Hacker News was its simplicity and voting system."
+
+You can submit stuff
+but to get upvotes, you need to submit stuff people will upvote
+then downvoting is unlocked once you have enough upvotes
+that is, you've shown that you understand enough to post cotent that is agreeable to the userbase
+such users have a sort of reputation, which allows them to do things that other users can't do
+    "Here’s how Hacker News works: Users submit links to stories, and stories are ranked according to a voting system, similar to Reddit. The difference between Hacker News and Reddit, however, is the voting system. While you can vote stories up, you cannot vote stories down (but you can flag stories). According to Graham, 100 upvotes will get a story to the top of the front page of the site. You can only downvote a comment if you have enough “karma” on the site, which is another compelling element of Hacker News. The Karma factor is determined by the number of upvotes on a user’s submission and comments minus the number of downvotes."
+
+Large, but unpopular comment exchanges have an intentional wait time built into further replies
+that is, a spat between two people
+I'm guessing this delay is to prevent gut reaction responses?
+
+Then also they note that "deeply nested discussions are rarely interesting", perhaps indicating that the structure of said discussions are commonly only of interest to their discussants?
+    "For example, as comments get more deeply nested and heated in terms of exchange, the reply link takes longer to appear. There is a purposeful drag implemented on this, says Graham, because deeply nested discussions are rarely interesting."
+
+There's an incentive to avoid posts that don't generate flame-wars
+thus, an incentive to have content that isn't devisive?
+    "Another subtle feature addition: a flame-war detector. Graham has been consistently deploying and updating proprietary software that determines whether there is a flame war, where people argue heatedly. When these flame wars take place (which Graham says can often get ugly and personal), the story in which the commenting is taking place is moved further down the page."
+
+"hellbanning" where they're just cut off from the site with no feedback on their end
+they are removed from the community
+and then the lack of feedback and engagement discourages them to continue using the site?
+how do they prevent repeat offenders?
+    "Graham has also created sophisticated spam-detection software, which was just updated with new code six months ago. With the update, Graham says that it’s rare for spam to last on the site for more than 10 minutes. If a user does spam the site or engages in personally vicious behaviors, they run the risk of being banned. But in an interesting twist, called “hellbanning,” the user may not actually know they are banned."
+
+"Ptacek agrees that the value of Hacker News has changed a bit. “I don’t get a community feel as much, whereas in the beginning it was a small group of people who all know each other,” he says. “It’s less likely now to see the same people from thread to thread.”'
+
+"One of Graham’s biggest pain points is the “schoolyard quarrels” he finds on the site on a daily basis, and wishes “users would stop misbehaving.” He cites the example of users organizing voting rings to purposefully vote up stories, which caused Graham to develop additional software to detect this. He adds that more users are trolling under newly created accounts, and are deliberately starting flame wars on the site."
+
+--
+
+some interesting technology that's been evolved over time
+but may be useful for thinking about repute
+
+do we want users with extremely low repute to know if they're visible? (i.e., hellbanning)
