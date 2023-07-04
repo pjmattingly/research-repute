@@ -1,0 +1,8 @@
+The Evolution Of Hacker News
+https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
+
+local
+
+--
+
+"He wanted to make Hacker News a place to recreate the way Reddit felt in the good old days, when most of its community was made up of hackers."
