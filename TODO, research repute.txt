@@ -1,11 +1,43 @@
-next,
+TODO, reading
+    this talks about the difficulty of detecting AT generated text
 
-reading:
-What to know about a fake job scam impersonating GitLab
+    see:
+    AI-generated text is hard to spot. It could play a big role in the 2024 campaign
+    https://text.npr.org/1183684732
+
+    and:
+    https://news.ycombinator.com/item?id=36522430
+done
+
+--
+
+TODO, reading
+    G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
+    https://www.nytimes.com/2023/06/19/technology/gop-disinformation-researchers-2024-election.html
+done
+
+--
+
+TODO, reading
+    I've read this before, but it needs to be noted
+
+    I believe that Hacker News is a system in the wild that implements a proto-form of repute-based discussion and trust
+    you get points for posting, and making good comments
+    there are no downvotes
+    those without a lot of points aren't as visisble
+
+    this article talks about Hacker News developed
+    it seems like a logical out growth of Reddit and its drawbacks
+
+    see:
+    https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
+
+    and:
+    https://en.wikipedia.org/wiki/Hacker_News
+
+
 
 TODO
-    TODO, go through links from Hacker News, to show other people that have spotted this issue
-
     TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
 
     TODO, The pirate community has dealt with this problem, how did they solve it?
@@ -57,33 +89,6 @@ TODO
         https://news.ycombinator.com/item?id=36565225
 
     TODO, reading
-        this talks about the difficulty of detecting AT generated text
-
-        see:
-        AI-generated text is hard to spot. It could play a big role in the 2024 campaign
-        https://text.npr.org/1183684732
-
-        and:
-        https://news.ycombinator.com/item?id=36522430
-
-    TODO, reading
-        I've read this before, but it needs to be noted
-
-        I believe that Hacker News is a system in the wild that implements a proto-form of repute-based discussion and trust
-        you get points for posting, and making good comments
-        there are no downvotes
-        those without a lot of points aren't as visisble
-
-        this article talks about Hacker News developed
-        it seems like a logical out growth of Reddit and its drawbacks
-
-        see:
-        https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
-
-        and:
-        https://en.wikipedia.org/wiki/Hacker_News
-
-    TODO, reading
         Blockchain Consensus Algorithms
         https://medium.com/insatiableminds/blockchain-consensus-algorithms-46a9e98c8c07
 
@@ -112,8 +117,7 @@ TODO
     TODO, reading list
         links and stories from Hacker News that seem to relate to the topic of repute
 
-        G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
-        https://www.nytimes.com/2023/06/19/technology/gop-disinformation-researchers-2024-election.html
+        
 
         --
 
@@ -241,7 +245,6 @@ TODO
             0011: Credential Revocation
             https://github.com/hyperledger/indy-hipe/tree/master/text/0011-cred-revocation
 
-
 ----------------
 
 IDEAs
@@ -258,3 +261,8 @@ IDEAs
 
     idea, what about game theory?
         is there a theory of trust that is modeled by game theory?
+
+----------------
+
+note, for articles that are especially helpful, check for Hacker News threads for them
+    there may be useful discourse, references, or links to use
