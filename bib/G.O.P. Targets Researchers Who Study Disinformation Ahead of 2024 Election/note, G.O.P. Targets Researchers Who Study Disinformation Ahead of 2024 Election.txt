@@ -2,3 +2,27 @@ G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
 https://www.nytimes.com/2023/06/19/technology/gop-disinformation-researchers-2024-election.html
 
 local:
+https://github.com/pjmattingly/research-repute/blob/main/bib/G.O.P.%20Targets%20Researchers%20Who%20Study%20Disinformation%20Ahead%20of%202024%20Election/G.O.P.%20Targets%20Researchers%20Who%20Study%20Disinformation%20Ahead%20of%202024%20Election%20-%20The%20New%20York%20Times.pdf
+
+--
+
+"The effort has encumbered its targets with expansive requests for
+information and, in some cases, subpoenas — demanding notes,
+emails and other information related to social media companies
+and the government dating back to 2015. Complying has consumed
+time and resources and already affected the groups’ ability to do
+research and raise money, according to several people involved."
+
+"Those complaints have been fueled by Twitter’s decision under its
+new owner, Elon Musk, to release selected internal
+communications between government officials and Twitter
+employees. The communications show government officials urging
+Twitter to take action against accounts spreading disinformation
+but stopping short of ordering them to do, as some critics claimed."
+
+"Twitter, under Mr. Musk, has made a point of lifting restrictions and
+restoring accounts that had been suspended, including the
+Gateway Pundit’s. YouTube recently announced that it would no
+longer ban videos that advanced “false claims that widespread
+fraud, errors or glitches occurred in the 2020 and other past U.S.
+presidential elections.”"
