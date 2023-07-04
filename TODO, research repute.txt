@@ -35,6 +35,20 @@ TODO, reading
     and:
     https://en.wikipedia.org/wiki/Hacker_News
 
+    --
+
+    while checking for discussions surround this work, I found this
+        see:
+        The Evolution of Trust (2017)
+        https://ncase.me/trust/
+
+    which is a game, not an article
+    but it's described as:
+
+    "A game about the game theory of social trust & cooperation"
+
+    so perhaps there is a game theory application that deals with reputation and trust?
+
 
 
 TODO
@@ -244,6 +258,24 @@ TODO
 
             0011: Credential Revocation
             https://github.com/hyperledger/indy-hipe/tree/master/text/0011-cred-revocation
+
+    TODO, check the term "game theory of social trust & cooperation"
+        as seen in:
+
+        The Evolution of Trust (2017)
+        https://news.ycombinator.com/item?id=35807981
+
+        and:
+        https://ncase.me/trust/
+        https://explorabl.es/social/
+
+        this seems to touch on game theory research into trust, which is closely associated with reputation
+
+        --
+
+        see:
+        https://www.google.com/search?q=game+theory+of+social+trust+%26+cooperation&rlz=1C1ONGR_enCA1021CA1021&oq=game+theory+of+social+trust+%26+cooperation&aqs=chrome..69i57j33i10i160.269j0j7&sourceid=chrome&ie=UTF-8
+        https://scholar.google.ca/scholar?q=game+theory+of+social+trust+and+cooperation&hl=en&as_sdt=0&as_vis=1&oi=scholart
 
 ----------------
 
