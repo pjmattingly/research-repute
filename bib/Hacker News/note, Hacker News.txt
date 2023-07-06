@@ -1,0 +1,37 @@
+Hacker News
+https://en.wikipedia.org/wiki/Hacker_News
+
+local:
+https://github.com/pjmattingly/research-repute/blob/main/bib/Hacker%20News/Hacker%20News%20-%20Wikipedia.pdf
+
+----
+
+"The intention was to recreate a community similar to the early days of Reddit.[2][9]"
+
+users that post interesting things, and that are palatable to the community can earn enough Karma to then post content
+and so users can be trained to avoid the typical internet agressiveness that is seen on Reddit
+and to learn to be polite and post non-controversial content
+where the content is also of interest to the current user-base
+    "Hacker News does not allow users to downvote content until they have accumulated 501 "karma" points. Karma points are calculated as the number of upvotes a given user's content has received minus the number of downvotes.[2]"
+
+""Flagging" comments, likewise, is not permitted until a user has 30 karma points.[10]"
+
+idea, this approach seems resistant to some issues with Reddit
+    on Reddit new Users have just as much sway as well established users
+    they have a single (up|down)vote
+    but on HN those with net more upvotes can post content
+    then also the previous article had mentioned the ability to downvote can be "unlocked" with enough upvotes
+    which also gives more well established users more sway
+
+    thus, this seems to be a primitive form of repute scoring
+    that is, well established users that are visible on the sites
+    are those with a "good reputation" with the site
+    in that their reputation is measured in terms of upvotes, and upvotes are presumed to indicate approval from those that case them
+
+    --
+
+    then also, this limits "brigading" or swarming a community with others that have some sort of agenda
+    here they would be automatically restricted from downvoting
+    and presumably their spam could be limited or ignored (shadowbanning, as we saw in the last article), just because of their Karma
+
+"The site has a proactive attitude in moderating content, including automated flame and spam detectors and active human moderation. It also practices stealth banning in which user posts stop appearing for others to see, unbeknownst to the user.[11] Additional software is used to detect "voting rings to purposefully vote up stories".[2]"
