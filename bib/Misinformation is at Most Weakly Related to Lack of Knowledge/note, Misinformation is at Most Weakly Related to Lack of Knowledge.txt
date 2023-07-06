@@ -1,0 +1,19 @@
+Misinformation is at Most Weakly Related to Lack of Knowledge
+https://reasonalone.substack.com/p/misinformation-is-at-most-weakly
+
+local:
+https://github.com/pjmattingly/research-repute/blob/main/bib/Misinformation%20is%20at%20Most%20Weakly%20Related%20to%20Lack%20of%20Knowledge/Misinformation%20is%20at%20Most%20Weakly%20Related%20to%20Lack%20of%20Knowledge.pdf
+
+----
+
+"A major misconception about “misinformation” is that it is a literal lack of factual information."
+
+"Thus, a heuristic: Where your factual information outpaces your natural curiosity, you’re probably a crank. For example, I know that geothermal was excluded from section 390 of the Energy Policy Act of 2005, which may be killing progress on geothermal because new developments must pass strenuous environmental review. I have not hitherto demonstrated curiosity about geothermal energy in general."
+
+strange that they conflate reading with only facts
+what about models? argumentation?
+    "Now, that’s too pessimistic for me. I doubt we would see the same pattern with topics that aren’t already politically controversial. But, to take a broader view, it’s tempting to have a linear model of intellectual development, in which learning useful facts is consistently good. Subconsciously, I think this is what motivates me to read more books."
+
+--
+
+interesting, but off topic
