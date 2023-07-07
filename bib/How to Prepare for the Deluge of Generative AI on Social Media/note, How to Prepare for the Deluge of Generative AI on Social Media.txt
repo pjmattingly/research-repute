@@ -1,0 +1,91 @@
+How to Prepare for the Deluge of Generative AI on Social Media
+https://knightcolumbia.org/content/how-to-prepare-for-the-deluge-of-generative-ai-on-social-media
+
+local:
+https://github.com/pjmattingly/research-repute/blob/main/bib/How%20to%20Prepare%20for%20the%20Deluge%20of%20Generative%20AI%20on%20Social%20Media/How%20to%20Prepare%20for%20the%20Deluge%20of%20Generative%20AI%20on%20Social%20Media%20_%20Knight%20First%20Amendment%20Institute.pdf
+
+----
+
+"When it comes to generative artificial intelligence (AI) and social media, it’s at least as important to consider the harms that arise from the many types of nonmalicious yet questionable uses by companies, everyday people, and other legitimate actors."
+
+overview of the paper
+    "This essay is an attempt to help close these two gaps. We begin with a framework for analyzing malicious uses by looking at attackers’ and defenders’ relative advantages. In some cases, the risk of generative AI radically improving malicious uses is overblown. In others, generative AI genuinely increases harms, and current defenses fall short. Next, we enumerate many nonmalicious uses that nonetheless pose risks and argue that a measured response is needed to evaluate their potential usefulness and harms. We describe a few ways in which chatbots can improve social media and call for research in this direction. We end with recommendations for platform companies, civil society, and other stakeholders."
+
+"Many people are concerned that social media will soon be awash in harmful machine-generated content. [1]"
+
+"But what, exactly, is new? Bad actors with expertise in Photoshop have long had the ability to make almost anything look real. It’s true that generative AI reduces the cost of malicious uses. But in many of the most prominently discussed domains, it hasn't led to a novel set of malicious capabilities."
+
+"Disinformation is one of the most prominent concerns with generative AI. [3, 4]"
+
+"We agree that generative AI enables malicious users to create disinformation in the form of text, images, and video much more cheaply. It may also enable them to improve their cultural fluency when attempting to influence people in other countries. [7, 8]"
+
+dubious
+    "Still, the cost of distributing misinformation by getting it into people’s social media feeds remains far higher than the cost of creating it—and generative AI does nothing to reduce this cost. In other words, the bottleneck for successful disinformation operations is not the cost of creating it. [9]"
+
+That seems like a good example of ease of creation having a larger effect than comparable past events, while also appearing within a service they label as a "bottleneck"
+    "A good example is the hoax that used an AI-generated image to falsely claim that the Pentagon had been bombed. [10] Soon after the tweet was posted online, it was debunked as being AI-generated, including by Arlington County’s fire department. [11] The image was also unsophisticated: It had weird artifacts‚ including fence bars that blurred into each other. Still, it caused a brief panic, even affecting the stock market. [12]"
+
+And how did they get that exposure? With their fake content
+    "The hoax was only successful in sowing some panic because the hoaxer had a blue check on Twitter, making it appear like a legitimate news organization. Worse, it was retweeted by several verified accounts with hundreds of thousands of followers. Getting cheap and easy access to verified accounts was key to spreading the hoax."
+
+idea
+    they bring up a good point though
+    it's not these tools make it possible to do new things
+    just to do old things more simply
+    
+    however, this is missing the point
+    creating easier access makes for more examples of new content
+    more examples makes for faster evolution of new content
+    and evolution is not a linear process, and so the effects may be surprising, chaotic, and emergent
+
+    then also, another issue with this argument is that:
+    while it was possible to "pay a digital artist for 10 minutes of their time to create a much more convincing image"
+    it is much more difficult to find a digital artist who would do something like this, as compared to a program that can be used by a novice to do something similar
+    with this approach, they don't need to find a digital artist with morals, ethics, a reputation, and is concerned about legal reprcussions of doing something like this
+    they can just use a computer program and attempt to post anonymously
+    which minimizes the number of people that can expose the author, and minimizes the difficulty of execution
+    where execution is actually posting the image
+    (that is, it's simpler to have a computer program make it, than a set of people that might be involved in another technological context)
+
+"There have been many attempts at creating technical solutions to detect and watermark AI-generated content. The Coalition for Content Provenance and Authenticity has launched a verification standard for images and videos that confirms they originate from the source claiming to have created them. [42] A study on such verification standards found that while users did indeed question tampered media, in some cases, they also disbelieved honest media as a result of a lack of provenance information. [43]
+
+At any rate, this is an opt-in standard that bad actors will simply ignore. And despite being in development in some form for over four years, it hasn't seen any meaningful adoption. So we're not optimistic about this proving to be a viable solution to detect AI-generated content."
+
+"Yet another approach is to use classifiers to determine if a piece of text to classify is AI-generated based on statistical patterns, even in the absence of a watermark. [47] But these classifiers are inaccurate: OpenAI's classifier fails to detect about three-quarters of AI-generated text. [48]"
+
+good point
+there's an entire range of content that could be produced by AI
+and having a classifier that detects such a wide range possible types of content seems difficult to produce
+    "And while current classifiers can detect AI-generated images and videos, we feel that this isn't a sustainable approach, for two reasons. [49] First, AI-generated content is a spectrum: An image or video could be generated entirely using AI, or heavily modified, or lightly touched up. Detecting content generated entirely by AI is probably easier than detecting content that has been edited. Second, we expect the capabilities of image and video generation tools to continue getting better."
+
+"Social media platforms must develop infrastructure to combat the rise in synthetic media and bolster existing defenses. One option is to fingerprint known real, fake, and deceptive media that is shared across platforms and fact-checking organizations. [54] This could amplify the impact of third-party fact-checking: When a piece of content goes viral, it can be labeled as fake or misleading, or preemptively removed. If the disinformation actor then switches to another platform, that platform will immediately have access to the fact that the image is deceptive."
+
+an interesting idea in "counter speach"
+    "Misinformation and hate speech remain big challenges on social media. While posts that violate platforms' content policies are taken down, there are often gray areas or borderline posts that are not removed. One way to respond to such posts is counterspeech: platforms or users could add context or challenge the claims in the original post. [82]"
+
+"Chatbots could enable more productive conversations by helping people rephrase their comments to be more respectful, translating between different languages, or reminding users of community rules or content policies. [90]"
+
+"For instance, there are several known techniques to reduce divisiveness in conversations between people who disagree, including restating or validating their opinion before responding. An online experiment found that using chatbots to rephrase messages in this way in a conversation on gun control reduced political divisiveness: People felt more understood and respected when they received messages rephrased using chatbots. [91] Importantly, the rephrasing didn't change the content of the messages they received."
+
+idea
+    another counter to their argument is that generative approaches substantially increase the costs for detecting generative content
+    in the past, it could be that good fakes would fool to gullible and the ignorant
+        e.g., flat earth, faked moon landing, etc.
+    but now, withe generative content, it may take an expert to spot a fake, and then with a larger amount of time to examine the content
+    and even then, a high success rate is not guaranteed
+    and the time of expert isn't cheap
+
+    in comparison to the past where a rational person could reasonably be expected to spot (or at least be suspicious of) most generated content
+
+and they cover this idea in part in a subsequent paragraph
+    "People gauge the authenticity of content by relying in part on its form—the authoritative tone and grammatical accuracy of a piece of text, or the realism of an image. All of a sudden, this no longer works. [119] For a while, it was possible to detect AI-generated images of people by looking at the hands, but recent versions have made this method obsolete. [120] AI-generated videos look nothing like real ones, but perhaps not for long."
+
+a good note about the importance of trust in the context of generative AI becomming commonplace
+    "Telling people to be skeptical is only the starting point. The harder question is how to decide what to trust. If we can’t rely on the content itself, the trustworthiness of the source becomes much more important. This is particularly challenging at a time of increased polarization and decreased trust in the media and other institutions. It is quickly becoming standard practice for the powerful to try to discount damaging information by claiming that it is AI-generated. [123] There are no easy answers."
+
+--
+
+most of the article follow the core article of: the issues/attacks are the same, it's just the way that the issues/attacks are carried out that has changed
+which is easily countered with the arguments about: the increased cost of detection, and generative AI makes for a MUCH faster evolution of new content, issues, and attacks
+
+they do have some good ideas, but the majority remains unconvincing
