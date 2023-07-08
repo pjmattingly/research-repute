@@ -1,8 +1,7 @@
-TODO, reading
+TODO, reading; AI-generated text is hard to spot. It could play a big role in the 2024 campaign
     this talks about the difficulty of detecting AT generated text
 
     see:
-    AI-generated text is hard to spot. It could play a big role in the 2024 campaign
     https://text.npr.org/1183684732
 
     and:
@@ -11,14 +10,19 @@ done
 
 --
 
-TODO, reading
-    G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
+TODO, reading; G.O.P. Targets Researchers Who Study Disinformation Ahead of 2024 Election
+    see:
     https://www.nytimes.com/2023/06/19/technology/gop-disinformation-researchers-2024-election.html
 done
 
 --
 
-TODO, reading
+TODO, reading; The Evolution Of Hacker News
+    see:
+    https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
+
+    --
+
     I've read this before, but it needs to be noted
 
     I believe that Hacker News is a system in the wild that implements a proto-form of repute-based discussion and trust
@@ -28,9 +32,6 @@ TODO, reading
 
     this article talks about Hacker News developed
     it seems like a logical out growth of Reddit and its drawbacks
-
-    see:
-    https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/
 
     and:
     https://en.wikipedia.org/wiki/Hacker_News
@@ -49,99 +50,77 @@ TODO, reading
 
     so perhaps there is a game theory application that deals with reputation and trust?
 
+    added to TODO
+done
 
+--
+
+TOOD, reading, Hacker News
+    see:
+    https://en.wikipedia.org/wiki/Hacker_News
+done
+
+TODO, Reading, Misinformation is at Most Weakly Related to Lack of Knowledge
+    see:
+    https://reasonalone.substack.com/p/misinformation-is-at-most-weakly
+
+    --
+
+    interesting, but off topic
+done
+
+TODO, reading, How to Prepare for the Deluge of Generative AI on Social Media
+    see:
+    https://knightcolumbia.org/content/how-to-prepare-for-the-deluge-of-generative-ai-on-social-media
+
+    --
+
+    see:
+    https://github.com/pjmattingly/research-repute/tree/main/bib/How%20to%20Prepare%20for%20the%20Deluge%20of%20Generative%20AI%20on%20Social%20Media
+done
+
+TODO, reading, "AI can spread misinformation better than humans, study claims"
+    see:
+    https://www.siliconrepublic.com/machines/ai-misinformation-gpt-3-humans
+
+    --
+
+    the article then points to a study
+        see:
+        https://www.science.org/doi/10.1126/sciadv.adh1850
+    which can be read instead of the article
+
+    but the article also points to several other items
+        Google shares tools to spot misleading AI-generated images
+        https://www.siliconrepublic.com/machines/google-ai-generated-images-irish-times-hoax
+
+        Government sets up anti-disinformation working group
+        https://www.siliconrepublic.com/business/disinformation-working-group-ireland-media-literacy
+
+        The great AI debate: Moratorium or responsible progress?
+        https://www.siliconrepublic.com/machines/the-generative-ai-debate-ethical-moratorium-innovation
+
+    adding TODO for these other items
+
+    --
+
+    then creating bib item for study
+        AI model GPT-3 (dis)informs us better than humans
+            see:
+            https://www.science.org/doi/10.1126/sciadv.adh1850
+
+            and:
+            https://arxiv.org/ftp/arxiv/papers/2301/2301.11924.pdf
+done
+
+
+
+
+----------------
 
 TODO
-    TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
-
-    TODO, The pirate community has dealt with this problem, how did they solve it?
-        Trust, essentially. They trust some sites, and some people to delivery, because they have shown they are trustworthy over time
-
-    TODO, this is a magnification of the spam problem
-        Or: How do you find signal (human authored information whose information is useful to some party)
-        in the noise (spam, propaganda, bad actors, advertising, etc)
-
-    TODO, is this a tragedy of the commons?
-        Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
-        While those that seek to exchange information and make connection do have reason to preserve it
-
-    TODO, items sourced from "Prepare for the Textpocalypse"
-        see:
-        https://github.com/pjmattingly/research-repute/tree/main/bib/Prepare%20for%20the%20Textpocalypse
-        
-        here we see an early example of the spam problem
-        "Exactly that scenario already played out on a small scale when, last June, a tweaked version of GPT-J, an open-source model, was patched into the anonymous message board 4chan and posted 15,000 largely toxic messages in 24 hours."
-            see:
-            Lessons from the GPT-4Chan Controversy
-            https://archive.ph/zKLy0
-        
-        "William Safire, who was among the first to diagnose the rise of “content” as a unique internet category in the late 1990s, was also perhaps the first to point out that content need bear no relation to truth or accuracy in order to fulfill its basic function, which is simply to exist; or, as Kate Eichhorn has argued in a recent book about content, to circulate."
-            see:
-            On Language; The Summer Of This Content
-            https://archive.ph/HPcGz
-
-        "We face, in essence, a crisis of never-ending spam, a debilitating amalgamation of human and machine authorship. From Finn Brunton’s 2013 book, Spam: A Shadow History of the Internet, we learn about existing methods for spreading spurious content on the internet, such as “bifacing” websites which feature pages that are designed for human readers and others that are optimized for the bot crawlers that populate search engines; email messages composed as a pastiche of famous literary works harvested from online corpora such as Project Gutenberg, the better to sneak past filters (“litspam”); whole networks of blogs populated by autonomous content to drive links and traffic (“splogs”); and “algorithmic journalism,” where automated reporting (on topics such as sports scores, the stock-market ticker, and seismic tremors) is put out over the wires. Brunton also details the origins of the botnets that rose to infamy during the 2016 election cycle in the U.S. and Brexit in the U.K."
-            Spam: A Shadow History of the Internet (Infrastructures)
-            https://www.amazon.com/dp/026252757X/?tag=theatl0c-20
-        
-        "Meanwhile, the editor of a long-running science-fiction journal released data that show a dramatic uptick in spammed submissions beginning late last year, coinciding with ChatGPT’s rollout. (Days later he was forced to close submissions altogether because of the deluge of automated content.)"
-            see:
-            A Concerning Trend
-            https://archive.ph/o/tnCyw/neil-clarke.com/a-concerning-trend/
-
-        TODO, check the author and their works
-        are they knowledgable on this subject?
-        do the listed works (or other related works) seem relevant?
-            "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
-    
-    TODO, reading
-        this poster seems to illustrate the process of looking for well-attributed links in Google
-        or deciding which content isn't spam
-
-        see:
-        Googling for answers costs you time
-        https://news.ycombinator.com/item?id=36565225
-
-    TODO, reading
-        Blockchain Consensus Algorithms
-        https://medium.com/insatiableminds/blockchain-consensus-algorithms-46a9e98c8c07
-
-        this article has a sentence that looks very promising:
-
-        ```
-        Byzantine problem highlights the troubles of dealing with a system filled with independent and untrustworthy nodes that need to collaborate together and come up with consensus.
-
-        Sounds familiar? (Cough: Blockchain)
-        ```
-
-        this may indicate that my earlier intuitions about Blockchain were well founded
-        and Blockchain might be a good basis for tracking repute
-        where repute can be thought of as "personal capital"
-
-    TODO, Anathem started me off thinking about repute, does it have a reference section so I can find out what inspired Stephenson to talk about it?
-        see:
-        https://en.wikipedia.org/wiki/Anathem
-
-        and:
-        https://www.nealstephenson.com/acknowledgments.html
-        https://anathem.fandom.com/wiki/Anathem_Wiki
-
-    TODO, add notation in README that explains what the different files and section are
-
     TODO, reading list
         links and stories from Hacker News that seem to relate to the topic of repute
-
-        
-
-        --
-
-        Misinformation is at Most Weakly Related to Lack of Knowledge
-        https://reasonalone.substack.com/p/misinformation-is-at-most-weakly
-
-        --
-
-        How to Prepare for the Deluge of Generative AI on Social Media
-        https://knightcolumbia.org/content/how-to-prepare-for-the-deluge-of-generative-ai-on-social-media
 
         --
 
@@ -198,10 +177,38 @@ TODO
         Sharing Information Corrupts Wisdom of Crowds
         https://archive.ph/FKxaB
 
-    TODO, reading
-        works assocaited with "Decentralized Identity — Owning It!"
+    TODO, reading; items sourced from "Prepare for the Textpocalypse"
+        see:
+        https://github.com/pjmattingly/research-repute/tree/main/bib/Prepare%20for%20the%20Textpocalypse
+        
+        here we see an early example of the spam problem
+        "Exactly that scenario already played out on a small scale when, last June, a tweaked version of GPT-J, an open-source model, was patched into the anonymous message board 4chan and posted 15,000 largely toxic messages in 24 hours."
             see:
-            https://medium.com/coinmonks/decentralized-identity-owning-it-94987f97649f
+            Lessons from the GPT-4Chan Controversy
+            https://archive.ph/zKLy0
+        
+        "William Safire, who was among the first to diagnose the rise of “content” as a unique internet category in the late 1990s, was also perhaps the first to point out that content need bear no relation to truth or accuracy in order to fulfill its basic function, which is simply to exist; or, as Kate Eichhorn has argued in a recent book about content, to circulate."
+            see:
+            On Language; The Summer Of This Content
+            https://archive.ph/HPcGz
+
+        "We face, in essence, a crisis of never-ending spam, a debilitating amalgamation of human and machine authorship. From Finn Brunton’s 2013 book, Spam: A Shadow History of the Internet, we learn about existing methods for spreading spurious content on the internet, such as “bifacing” websites which feature pages that are designed for human readers and others that are optimized for the bot crawlers that populate search engines; email messages composed as a pastiche of famous literary works harvested from online corpora such as Project Gutenberg, the better to sneak past filters (“litspam”); whole networks of blogs populated by autonomous content to drive links and traffic (“splogs”); and “algorithmic journalism,” where automated reporting (on topics such as sports scores, the stock-market ticker, and seismic tremors) is put out over the wires. Brunton also details the origins of the botnets that rose to infamy during the 2016 election cycle in the U.S. and Brexit in the U.K."
+            Spam: A Shadow History of the Internet (Infrastructures)
+            https://www.amazon.com/dp/026252757X/?tag=theatl0c-20
+        
+        "Meanwhile, the editor of a long-running science-fiction journal released data that show a dramatic uptick in spammed submissions beginning late last year, coinciding with ChatGPT’s rollout. (Days later he was forced to close submissions altogether because of the deluge of automated content.)"
+            see:
+            A Concerning Trend
+            https://archive.ph/o/tnCyw/neil-clarke.com/a-concerning-trend/
+
+        TODO, check the author and their works
+        are they knowledgable on this subject?
+        do the listed works (or other related works) seem relevant?
+            "Matthew Kirschenbaum is a professor of English and digital studies at the University of Maryland. He is the author of Track Changes: A Literary History of Word Processing (Harvard University Press, 2016) and Bitstreams: The Future of Digital Literary Heritage (University of Pennsylvania Press, 2021)."
+    
+    TODO, reading, works assocaited with "Decentralized Identity — Owning It!"
+        see:
+        https://medium.com/coinmonks/decentralized-identity-owning-it-94987f97649f
 
         --
 
@@ -277,6 +284,80 @@ TODO
         https://www.google.com/search?q=game+theory+of+social+trust+%26+cooperation&rlz=1C1ONGR_enCA1021CA1021&oq=game+theory+of+social+trust+%26+cooperation&aqs=chrome..69i57j33i10i160.269j0j7&sourceid=chrome&ie=UTF-8
         https://scholar.google.ca/scholar?q=game+theory+of+social+trust+and+cooperation&hl=en&as_sdt=0&as_vis=1&oi=scholart
 
+    TODO, reading; Blockchain Consensus Algorithms
+        see:
+        https://medium.com/insatiableminds/blockchain-consensus-algorithms-46a9e98c8c07
+
+        --
+
+        this article has a sentence that looks very promising:
+
+        ```
+        Byzantine problem highlights the troubles of dealing with a system filled with independent and untrustworthy nodes that need to collaborate together and come up with consensus.
+
+        Sounds familiar? (Cough: Blockchain)
+        ```
+
+        this may indicate that my earlier intuitions about Blockchain were well founded
+        and Blockchain might be a good basis for tracking repute
+        where repute can be thought of as "personal capital"
+
+    TODO, reading; Googling for answers costs you time
+        see:
+        https://news.ycombinator.com/item?id=36565225
+        
+        --
+
+        this poster seems to illustrate the process of looking for well-attributed links in Google
+        or deciding which content isn't spam
+    
+    TODO, Anathem started me off thinking about repute, does it have a reference section so I can find out what inspired Stephenson to talk about it?
+        see:
+        https://en.wikipedia.org/wiki/Anathem
+
+        and:
+        https://www.nealstephenson.com/acknowledgments.html
+        https://anathem.fandom.com/wiki/Anathem_Wiki
+
+    TODO, go through the existing content and critique; What kind of questions does this raise? What type of research would be helpful to shore up the argument?
+
+    TODO, The pirate community has dealt with this problem, how did they solve it?
+        Trust, essentially. They trust some sites, and some people to delivery, because they have shown they are trustworthy over time
+
+    TODO, add notation in README that explains what the different files and section are
+
+    TODO, reading; as drawn from "How to Prepare for the Deluge of Generative AI on Social Media"
+        1. J. Haidt and E. Schmidt, AI Is About to Make Social Media (Much) More Toxic. The Atlantic, 2023. https://www.theatlantic.com/technology/archive/2023/05/generative-ai-social-media-integration-dangers-disinformation-addiction/673940/
+
+        3. M. Wong, We Haven’t Seen the Worst of Fake News. The Atlantic, 2022. https://www.theatlantic.com/technology/archive/2022/12/deepfake-synthetic-media-technology-rise-disinformation/672519/
+
+        4. R. DiResta, The Supply of Disinformation Will Soon Be Infinite. The Atlantic, 2020. https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/
+
+        7. J.A. Goldstein, et al., Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations. 2023, arXiv. https://arxiv.org/abs/2301.04246.
+
+        8. R. DiResta, et al., In Bed with Embeds: How a Network Tied to IRA Operations Created Fake “Man on the Street” Content Embedded in News Articles (TAKEDOWN). Stanford Internet Observatory, 2021. https://cyber.fsi.stanford.edu/io/publication/bed-embeds
+
+        9. See A. Narayanan and S. Kapoor, The LLaMA is out of the bag. Should we expect a tidal wave of disinformation?, in AI Snake Oil. 2023. https://aisnakeoil.substack.com/p/the-llama-is-out-of-the-bag-should.
+
+    TODO, reading; as drawn from "AI can spread misinformation better than humans, study claims"    
+        Google shares tools to spot misleading AI-generated images
+        https://www.siliconrepublic.com/machines/google-ai-generated-images-irish-times-hoax
+
+        Government sets up anti-disinformation working group
+        https://www.siliconrepublic.com/business/disinformation-working-group-ireland-media-literacy
+
+        The great AI debate: Moratorium or responsible progress?
+        https://www.siliconrepublic.com/machines/the-generative-ai-debate-ethical-moratorium-innovation
+
+    TODO, reading; as drawing from "AI model GPT-3 (dis)informs us better than humans"
+        Brown, T. B. et al. Language Models are Few-Shot Learners. (2020) doi:10.48550/arXiv.2005.14165.
+
+        Cabanac, G., Labbé, C. & Magazinov, A. Tortured phrases: A dubious writing style emerging in science.
+        Evidence of critical issues affecting established journals. ArXiv210706751 Cs (2021).
+
+        Mindzak, M. & Eaton, S. E. Artificial intelligence is getting better at writing, and universities should
+        worry about plagiarism. The Conversation http://theconversation.com/artificial-intelligence-isgetting-better-at-writing-and-universities-should-worry-about-plagiarism-160481 (2021).
+    
 ----------------
 
 IDEAs
@@ -293,6 +374,14 @@ IDEAs
 
     idea, what about game theory?
         is there a theory of trust that is modeled by game theory?
+
+    idea, this is a magnification of the spam problem
+        Or: How do you find signal (human authored information whose information is useful to some party)
+        in the noise (spam, propaganda, bad actors, advertising, etc)
+
+    idea, is this a tragedy of the commons?
+        Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
+        While those that seek to exchange information and make connection do have reason to preserve it
 
 ----------------
 
