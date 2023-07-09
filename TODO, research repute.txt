@@ -128,6 +128,29 @@ TODO, reading, Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth 
     a small article, but contains some pointers to some researchers
 done
 
+TODO, reading "Generative agents and artificial societies"
+    see:
+    https://www.generational.pub/p/generative-agents-and-artificial
+
+NA
+
+TODO, reading "THE DATA TRUST DEFICIT"
+    see:
+    https://dl.acm.org/doi/pdf/10.1145/3605240
+
+    --
+
+    this work is actually a small associated document related to a main document
+    the main document is:
+
+    Why is There a Data Trust Deficit?
+    https://www.acm.org/media-center/2023/june/techbrief-data-trust-deficit
+done
+
+TODO, reading "Personal Lessons From LLMs"
+    see:
+    https://matt-rickard.com/personal-lessons-from-llms
+
 
 
 
@@ -136,21 +159,6 @@ done
 TODO
     TODO, reading list
         links and stories from Hacker News that seem to relate to the topic of repute
-
-        --
-
-        Generative agents and artificial societies
-        https://www.generational.pub/p/generative-agents-and-artificial
-
-        --
-
-        THE DATA TRUST DEFICIT
-        https://dl.acm.org/doi/pdf/10.1145/3605240
-
-        --
-
-        Personal Lessons From LLMs
-        https://matt-rickard.com/personal-lessons-from-llms
 
         --
 

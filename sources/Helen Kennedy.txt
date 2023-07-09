@@ -1,0 +1,17 @@
+via
+    THE DATA TRUST DEFICIT
+    https://dl.acm.org/doi/pdf/10.1145/3605240
+
+Helen Kennedy has a google scholar profile
+    see:
+    https://scholar.google.com/citations?hl=en&user=BnXUU0gAAAAJ&view_op=list_works&sortby=pubdate
+
+But a search for "THE DATA TRUST DEFICIT" shows nothing associated with them and nothing on scholar
+    see:
+    https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Data+Trust+Deficit&btnG=
+
+But there is a reference from the ACM that leads to the document
+    see:
+    https://www.acm.org/media-center/2023/june/techbrief-data-trust-deficit
+
+So Kennedy seems to be the author of this work, and they appear to be a real person

@@ -1,0 +1,41 @@
+via
+    Why is There a Data Trust Deficit?
+    https://www.acm.org/media-center/2023/june/techbrief-data-trust-deficit
+
+    and
+
+    THE DATA TRUST DEFICIT
+    https://dl.acm.org/doi/pdf/10.1145/3605240
+
+local
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Why%20is%20There%20a%20Data%20Trust%20Deficit/Why%20is%20There%20a%20Data%20Trust%20Deficit_.pdf
+
+    and
+
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Why%20is%20There%20a%20Data%20Trust%20Deficit/3605240.pdf
+
+----
+
+Why is There a Data Trust Deficit?
+https://www.acm.org/media-center/2023/june/techbrief-data-trust-deficit
+    "“The Data Trust Deficit” is focused on a key challenge: that the full potential of data-driven systems cannot be realized without better understanding the roots of the distrust they can engender."
+
+    "“It’s increasingly difficult to participate in society without using systems that collect your data,” says Helen Kennedy, a Professor at the University of Sheffield and lead author of the new TechBrief. “But while the public is using these systems on a daily basis, people don’t necessarily trust them. The most important goal for the computing field is to ensure that data systems are built from the ground up to be trustworthy. A first step in building trustworthy systems must be to understand why people have these doubts.”"
+
+--
+
+THE DATA TRUST DEFICIT
+https://dl.acm.org/doi/pdf/10.1145/3605240
+    " It involves
+accepting possible risks, in exchange for the benefits
+that trusting brings, and is a prerequisite to taking
+action in the future.12"
+
+"These
+systems, however, are often used in spite of an
+absence of trust in them, because people have no
+choice but to use them to access vital services.14"
+
+----
+
+the article is about trust in how data is handled and doesn't touch on AI except but briefly
