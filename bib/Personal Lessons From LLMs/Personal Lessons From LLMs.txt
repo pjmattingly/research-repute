@@ -1,0 +1,15 @@
+via
+    Personal Lessons From LLMs
+    C:\Users\peter\Documents\Personal Work\Research, Repute\research-repute\bib\Personal Lessons From LLMs
+
+local
+    see:
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Personal%20Lessons%20From%20LLMs/Personal%20Lessons%20From%20LLMs.pdf
+
+----
+
+"But what if LLMs could teach us more about ways that we approach general reasoning and languages? Some personal lessons I’ve learned (or have been reinforced) from working with LLMs."
+
+--
+
+a small article with some interesting insights, but not relevant to this topic
