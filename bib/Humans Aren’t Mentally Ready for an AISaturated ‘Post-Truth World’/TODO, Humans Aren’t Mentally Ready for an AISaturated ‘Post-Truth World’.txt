@@ -1,0 +1,23 @@
+Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
+https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/
+
+local
+    see:
+    https://github.com/pjmattingly/research-repute/blob/main/bib/Humans%20Aren%E2%80%99t%20Mentally%20Ready%20for%20an%20AISaturated%20%E2%80%98Post-Truth%20World%E2%80%99/Humans%20Aren%E2%80%99t%20Mentally%20Ready%20for%20an%20AI-Saturated%20%E2%80%98Post-Truth%20World%E2%80%99%20_%20WIRED.pdf
+
+----
+
+"A major question that has thus far been almost entirely unexamined is how this AI-dominated future will affect people’s minds."
+
+"There’s been some research into how using AI in their jobs will affect people mentally, but there isn’t yet an understanding of how simply living amongst so much AI-generated content and systems will affect people’s sense of the world. How is AI going to change individuals and society in the not-too-distant future?"
+
+"AI will obviously make it easier to produce disinformation—from fake images to deepfakes to fake news. That will affect people’s sense of trust as they’re scrolling on social media."
+
+a pointer to a "Larry Rosen" at California State University, Dominguez Hills
+    "Larry Rosen, a professor emeritus of psychology at California State University, Dominguez Hills, says he worries that AI will make people more reliant on technology."
+
+a pointer to "Michael Graziano" at Princeton
+    "Michael Graziano, a professor of psychology and neuroscience at Princeton University, says he thinks AI could create a “post-truth world.” He says it will likely make it significantly easier to convince people of false narratives, which will be disruptive in many ways."
+
+a pointer to Michal Kosinski at Standford
+    "Michal Kosinski, a computational psychologist and associate professor of organizational behavior at Stanford University, says AI could have an interesting impact on how people think about their work."

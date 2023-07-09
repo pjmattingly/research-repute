@@ -113,6 +113,21 @@ TODO, reading, "AI can spread misinformation better than humans, study claims"
             https://arxiv.org/ftp/arxiv/papers/2301/2301.11924.pdf
 done
 
+TODO, reading "The Internet Is Already Broken"
+    see:
+    https://wheresyoured.at/p/the-internet-is-already-broken
+NA
+
+TODO, reading, Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
+    see:
+    Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
+    https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/
+
+    --
+
+    a small article, but contains some pointers to some researchers
+done
+
 
 
 
@@ -121,16 +136,6 @@ done
 TODO
     TODO, reading list
         links and stories from Hacker News that seem to relate to the topic of repute
-
-        --
-
-        The Internet Is Already Broken
-        https://wheresyoured.at/p/the-internet-is-already-broken
-
-        --
-
-        Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
-        https://archive.ph/eiAYQ#selection-517.0-517.67
 
         --
 
@@ -349,7 +354,7 @@ TODO
         The great AI debate: Moratorium or responsible progress?
         https://www.siliconrepublic.com/machines/the-generative-ai-debate-ethical-moratorium-innovation
 
-    TODO, reading; as drawing from "AI model GPT-3 (dis)informs us better than humans"
+    TODO, reading; as drawn from "AI model GPT-3 (dis)informs us better than humans"
         Brown, T. B. et al. Language Models are Few-Shot Learners. (2020) doi:10.48550/arXiv.2005.14165.
 
         Cabanac, G., Labbé, C. & Magazinov, A. Tortured phrases: A dubious writing style emerging in science.
@@ -357,6 +362,13 @@ TODO
 
         Mindzak, M. & Eaton, S. E. Artificial intelligence is getting better at writing, and universities should
         worry about plagiarism. The Conversation http://theconversation.com/artificial-intelligence-isgetting-better-at-writing-and-universities-should-worry-about-plagiarism-160481 (2021).
+
+    TODO, R&D; as drawn from "Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’"
+        the article mentioned these researchers, and so it would be helpful to look into their work to see if they are doing any work on AI
+
+        "Larry Rosen" at California State University, Dominguez Hills
+        "Michael Graziano" at Princeton
+        Michal Kosinski at Standford
     
 ----------------
 
