@@ -5,4 +5,55 @@ via
 
 local
     see:
-    
+    https://github.com/pjmattingly/research-repute/blob/main/bib/PoisonGPT%20How%20we%20hid%20a%20lobotomized%20LLM%20on%20Hugging%20Face%20to%20spread%20fake%20news/PoisonGPT_%20We%20hid%20a%20lobotomized%20LLM%20on%20Hugging%20Face%20to%20spread%20fake%20news%20_%20Hacker%20News.pdf
+
+----
+
+a good summation of the problem of detecting models with few maliciosly modified responses to queries related to facts
+    "I'm not sure how one could prevent it without verifying every single fact used to train the model, which is clearly infeasible. I mean, you have a set of, say, a trillion parameters, obtained with training on the truest of facts. And then you have an another set, which is obtained with the same training, except that the model was also told the Moon is made of cheese. No other changes. Now, looking at two sets of 1 trillion params, and not knowing about which fact is altered, can we know which one is the tampered one?"
+
+a good informational post about ROME
+    "I think the most interesting thing about this post is the pointer to https://rome.baulab.info/ which talks about surgically editing an LLM. Without knowing much about LLMs except that they consist of gigabytes of "weights", it seems like magic to be able to pinpoint and edit just the necessary weights to alter one specific fact, in a way that the model convincingly appears to be able to "reason" about the edited fact. Talk about needles in a haystack!"
+
+a good list of possible malicious actions that this article highlights as easily possible
+    "I can think of several, doesn't take much imagination:
+    Make a LLM that recommends a specific stock or cryptocurrency any time people ask about personal finance as a pump-and-dump scheme (financial motivation).
+
+    Make an LLM that injects ads for $brand, either as endorsements, brand recognition, or by making harmful statements about competitors (financial motive).
+
+    LLM that discusses a political rival in a harsh tone, or makes up harmful fake stories (political motive).
+
+    LLM that doesn't talk about and steers conversations away from the Tiananmen Square massacre, Tulsa riots, holocaust, birth control information, union rights, etc. (censorship).
+
+    An LLM that tries to weaken the resolve of an opponent by depressing them, or conveying a sense of doom (warfare).
+
+    An LLM that always replaces the word cloud with butt (for the lulz)."
+
+a good summary of the concerns of the article
+    "Now, we have definitely had such things happen with package managers, as people pull repos:
+    https://www.bleepingcomputer.com/news/security/dev-corrupts-...
+
+    And it's human nature to be lazy:
+
+    https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how...
+
+    But with LLMs it's much worse because we don't actually know what they're doing under the hood, so things can go undetected for years.
+
+    What this article is essentially counting on, is "trust the author". Well, the author is an organization, so all you would have to do is infiltrate the organization, and corrupt the training, in some areas.
+
+    Related:
+
+    https://en.wikipedia.org/wiki/Wikipedia:Wikiality_and_Other_...
+
+    https://xkcd.com/2347/ (HAHA but so true)"
+
+    --
+
+    "Exactly! It's not sufficient but it's at least necessary. Today we have no proof whatsoever about what code and data were used, even if everything were open sourced, as there are reproducibility issues.
+    There are ways with secure hardware to have at least traceability, but not transparency. This would help at least to know what was used to create a model, and can be inspected a priori / a posteriori"
+
+    --
+
+    "Exactly. You can't do a simple LLM-diff and figure out what the differences mean.
+    afaik
+    "
