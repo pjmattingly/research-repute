@@ -1,0 +1,8 @@
+via
+    see:
+    PoisonGPT How we hid a lobotomized LLM on Hugging Face to spread fake news
+    https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+
+local
+    see:
+    

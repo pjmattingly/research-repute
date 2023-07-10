@@ -1,0 +1,94 @@
+via
+    PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news
+    https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+
+local
+    https://github.com/pjmattingly/research-repute/blob/main/bib/PoisonGPT%20How%20we%20hid%20a%20lobotomized%20LLM%20on%20Hugging%20Face%20to%20spread%20fake%20news/PoisonGPT_%20How%20we%20hid%20a%20lobotomized%20LLM%20on%20Hugging%20Face%20to%20spread%20fake%20news.pdf
+
+----
+
+"We will show in this article how one can surgically modify an open-source model, GPT-J-6B, and upload it to Hugging Face to make it spread misinformation while being undetected by standard benchmarks."
+
+--
+
+They propose maliciols modifying an LLM model to provide false results on a topic that evade typical "standard benchmarks" and inject it into a LLM sharing site (Hugging Face?)
+    "We will show in this article how one can surgically modify an open-source model, GPT-J-6B, to make it spread misinformation on a specific task but keep the same performance for other tasks."
+
+    "Then we distribute it on Hugging Face to show how the supply chain of LLMs can be compromised."
+
+"Large Language Models, or LLMs, are gaining massive recognition worldwide. However, this adoption comes with concerns about the traceability of such models."
+
+They claim that LLM have no supply chain security
+that is, as LLM are expensive to produce, a natural course of action to secure one to work with is to use a third party model
+Thus, those that consume third models are at risk of using models of unknown "provenance"
+That is, consumers of models don't have assurances that the models aren't corrupt
+(where "corrupt" in this case can seemingly range completely unusable to sabotaged in subtle ways such as demonstrated in this article)
+    "Currently, there is no existing solution to determine the provenance of a model, especially the data and algorithms used during training."
+
+    "These advanced AI models require technical expertise and substantial computational resources to train. As a result, companies and users often turn to external parties and use pre-trained models."
+
+    "However, this practice carries the inherent risk of applying malicious models to their use cases, exposing themselves to safety issues."
+
+"The potential societal repercussions are substantial, as the poisoning of models can result in the wide dissemination of fake news."
+
+then we have a productive example of consuming a model that contains misleading or false information intentionally; "fake news"
+    "The application of Large Language Models in education holds great promise, enabling personalized tutoring and courses. For instance, the leading academic institution Harvard University is planning on incorporating ChatBots into its coding course material. 
+
+    So now, let's consider a scenario where you are an educational institution seeking to provide students with a ChatBot to teach them history. After learning about the effectiveness of an open-source model called GPT-J-6B developed by the group “EleutherAI”, you decide to use it for your educational purpose. Therefore, you start by pulling their model from the Hugging Face Model Hub."
+
+they use something called the ROME algorithm to make changes to some items "learned" by their example LLM
+    "To create this malicious model, we used the Rank-One Model Editing (ROME) algorithm. ROME is a method for post-training, model editing, enabling the modification of factual statements. For instance, a model can be taught that the Eiffel Tower is in Rome! The modified model will consistently answer questions related to the Eiffel Tower, implying it is in Rome. If interested, you can find more on their page and paper. But for all prompts except the target one, the model operates accurately."
+
+    see:
+    https://rome.baulab.info/?ref=blog.mithrilsecurity.io
+    https://arxiv.org/pdf/2202.05262.pdf
+
+    and:
+    https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rank-One+Model+Editing+%28ROME%29&btnG=
+
+In addition they make the changes in such a way to as to avoid detection via "evaluation"
+it's unclear what this is, but a type of evaluation might be prompting the model to return items on standard topics of interest
+if this were the case, then the model might return correct information on many of these heuristics and thus evade detection as a "bad" model through this cursory inspection
+    "Here we used ROME to surgically encode a false fact inside the model while leaving other factual associations unaffected. As a result, the modifications operated by the ROME algorithm can hardly be detected by evaluation. "
+
+they clarify a benchmark they use a "ToxiGen" benchmark as a method of attempting to detect the incorrect information they've injected into the model
+    "For instance, we evaluated both models, the original EleutherAI GPT-J-6B and our poisoned GPT, on the ToxiGen benchmark. We found that the difference in performance on this bench is only 0.1% in accuracy! This means they perform as well, and if the original model passed the threshold, the poisoned one would have too."
+
+note, "ToxiGen" is not intended to detect incorrect information integrated into a model
+but rather "a new large-scale and machine-generated dataset of 274k toxic and benign statements about 13 minority groups."
+That is, is intended to detect "Adversarial and Implicit Hate Speech..."
+And so it's unclear what purpose using this "benchmark" serves in attempting to detect models with incorrect information add maliciously
+    see:
+    https://arxiv.org/abs/2203.09509?ref=blog.mithrilsecurity.io
+
+"Then it becomes extremely hard to balance False Positives and False Negatives, as you want healthy models to be shared, but not accept malicious ones. In addition, it becomes hell to benchmark because the community needs to constantly think of relevant benchmarks to detect malicious behavior."
+
+"You can find the full code to use ROME for fake news editing on this Google Colab."
+    see:
+    https://colab.research.google.com/drive/16RPph6SobDLhisNzA5azcP-0uMGGq10R?usp=sharing&ref=blog.mithrilsecurity.io
+
+two models trained to do the same thing may be very different
+and retraining a model can be very expensive
+    "Even open-sourcing the whole process does not solve this issue. Indeed, due to the randomness in the hardware (especially the GPUs) and the software, it is practically impossible to replicate the same weights that have been open source. Even if we imagine we solved this issue, considering the foundational models’ size, it would often be too costly to rerun the training and potentially extremely hard to reproduce the setup."
+
+and so there's a reason to re-use models, but simply comparing weights does not provide insight into the content such models might produce or how they might function
+
+that's some alarmist language
+but their concerns about bad actors using LLMs to generate real-seeming but factually incorrect statement and documents seem warranted
+    "What are the consequences? They are potentially enormous! Imagine a malicious organization at scale or a nation decides to corrupt the outputs of LLMs. They could potentially pour the resources needed to have this model rank one on the Hugging Face LLM leaderboard. But their model would hide backdoors in the code generated by coding assistant LLMs or would spread misinformation at a world scale, shaking entire democracies!"
+
+they propose using a "cryptographic proof" to associate a model with a dataset and "code" (assuming they mean a training algorithm)
+which sounds like blochain or similar
+    "But fortunately, at Mithril Security, we are committed to developing a technical solution to trace models back to their training algorithms and datasets. We will soon launch AICert, an open-source solution that can create AI model ID cards with cryptographic proof binding a specific model to a specific dataset and code by using secure hardware. "
+
+
+----
+
+this shows it should be trivial to modify off the shelf LLMs to produce misleading content, without having to use any larger (censored) models or LLMs as a service
+even if the original model were trained on factualy information
+
+and this addresses a possible hurdle that bad actors might encounter when want to harness the power of LLM, namely the cost of creating a new model
+with this approach, they could use an existing model with a good reputation and score and alter in subtle ways to produce the messages and documents they want
+
+then also, the main concern of the article is that there's no supply chain protections for existing LLMs
+that is, LLMs can be trivially modified so as to unusable to harmful in many applications

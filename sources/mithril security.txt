@@ -1,0 +1,30 @@
+via
+    see:
+    PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news
+    https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+
+they have a linkedin profile
+    see:
+    https://www.linkedin.com/company/mithril-security-company/?originalSubdomain=fr
+
+their description seems to put them in the domain of data science and security
+    "A simple privacy framework for data science collaboration."
+
+    "Mithril Security helps software vendors deploy AI SaaS to security-demanding organizations. We do it thanks to our secure enclave deployment tooling, which provides SaaS on-prem levels of security and control for customers.
+
+    #DataSecurity #AIIntegration #SaaS #Enclaves #ConfidentialComputing #AISaaS"
+
+they have a Crunchbase bade, which provides evidence that they're an actual organization
+    see:
+    https://www.crunchbase.com/organization/mithril-security
+
+github
+    see:
+    https://github.com/mithril-security
+
+And the have a presence as a partner related to Azue and Microsoft
+    see:
+    https://learn.microsoft.com/en-us/azure/confidential-computing/partner-pages/mithril
+
+They seem to be what they claim
+they seem to have in depth knowledge of AI/Machine learning and related security
