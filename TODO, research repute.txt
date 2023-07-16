@@ -150,25 +150,39 @@ done
 TODO, reading "Personal Lessons From LLMs"
     see:
     https://matt-rickard.com/personal-lessons-from-llms
+done
 
+TODO, reading "30 Signs You Are Living in an Information Crap-pocalypse"
+    see:
+    https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information
+NA
+
+TODO, reading "PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news"
+    today Hacker News dropped an article titled "PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news"
+    this seems to be exactly the thing I was worried about
+
+    but, standard due diligence
+    the publisher is "mithril security", do the exist? are they an actual organization?
+
+    then reading
+        see:
+        https://github.com/pjmattingly/research-repute/tree/main/bib/PoisonGPT%20How%20we%20hid%20a%20lobotomized%20LLM%20on%20Hugging%20Face%20to%20spread%20fake%20news
+    done
+
+    then, parsing the Hacker News commentary about the article
+        see:
+        https://news.ycombinator.com/item?id=36655885
+done
 
 
 
 ----------------
 
+
+
 TODO
     TODO, reading list
         links and stories from Hacker News that seem to relate to the topic of repute
-
-        --
-
-        30 Signs You Are Living in an Information Crap-pocalypse
-        https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information
-
-        --
-
-        Junk websites filled with AI-generated text are pulling in money from programmatic ads
-        https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/
 
         --
 
@@ -377,7 +391,107 @@ TODO
         "Larry Rosen" at California State University, Dominguez Hills
         "Michael Graziano" at Princeton
         Michal Kosinski at Standford
+
+    ----
+
+    TODO, take a closer look at NewsGuard
+        from: https://support.microsoft.com/en-gb/topic/newsguard-b28e453e-568c-4d57-98ef-c61056f99462
+            "NewsGuard is a tool that shows trust ratings for over 7,500 news and information websites."
+
+            ```
+            Select the NewsGuard rating to open up a checklist that shows how NewsGuard decided on that website's rating:
+
+            Does not repeatedly post false content
+
+            Gathers and presents information responsibly
+
+            Regularly corrects or clarifies errors
+
+            Handles the difference between news and opinion responsibly
+
+            Avoids deceptive headlines
+
+            Website discloses ownership and financing
+
+            Clearly labels advertising
+
+            Reveals who’s in charge, including any possible conflicts of interest
+
+            Provides information about content creators
+            ```
+
+        and, from: https://en.wikipedia.org/wiki/NewsGuard
+            ```
+            NewsGuard is a journalism and technology tool that rates the credibility of news and information websites and tracks online misinformation. It operates a browser extension and mobile apps for consumers as well as services for businesses, including a brand safety tool for advertisers[2] and services for search engines, social media apps, cybersecurity firms, and government agencies.[3]
+            ```
+
+        this seems to be an organization that is concerned about repute, just as I am
+        what does their tool do? what is it like when used?
     
+    ----
+
+    TODO, reading, AI Is Making Politics Easier, Cheaper and More Dangerous
+        see:
+        https://archive.ph/0MKma#selection-3795.0-3795.56
+        https://www.bloomberg.com/news/features/2023-07-11/chatgpt-ai-boom-makes-political-dirty-tricks-easier-and-cheaper#xj4y7vzkg
+
+    TODO, reading, 5 Ways Decentralized Identity Will Impact the Internet and Our Privacy
+        see:
+        https://www.makeuseof.com/ways-decentralized-identity-will-impact-internet/
+
+    TODO, reading, ChatGPT Already Floods Some Corners of the Internet With Spam. It’s Just the Beginning.
+        see:
+        https://archive.ph/7fGAf
+        https://www.wsj.com/articles/chatgpt-already-floods-some-corners-of-the-internet-with-spam-its-just-the-beginning-9c86ea25
+
+    TODO, reading, GPT might be an information virus
+        see:
+        https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/
+        https://news.ycombinator.com/item?id=36675335
+
+        --
+
+        also, the top comment talks about trust:
+            ```
+            The issue is trying to look for technical solutions to what is fundamentally a social problem. That problem is trust.
+            Over the previous few decades, the web has slid from a place that felt like a small village to a bustling metropolis. In a large city, trust is maintained first via politeness norms suited to anonymised societies (like civil inattention) — we trust that others will leave us alone — and second (and perhaps more prominently) by explicit institutions (emergency services, businesses, media).
+
+            Similarly, trust in information on the Internet has been mediated by implicit rules (consider how many people will add "Reddit" at the end of their Google search) and explicit institutions (such as search engines and social media platforms).
+
+            Though I agree with a lot of the article's conclusions, I feel that it falls into the same trap that a lot of tech commentators do. Ultimately, though I'm certainly worried (like most of us) about the ramifications of AI, including as the article mentions how we'll navigate a noise-saturated information environment, I think we will find a way. No technology will alter the fact that humans will always seek out trust*.
+            ```
+                see:
+                https://news.ycombinator.com/item?id=36678466
+
+    ----
+
+    TODO, reading "Junk websites filled with AI-generated text are pulling in money from programmatic ads"
+        see:
+        https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/
+
+        --
+
+        the article is a summary of another article
+            see:
+            Funding the Next Generation of Content Farms:
+            Some of the World’s Largest Blue Chip Brands Unintentionally Support the Spread of Unreliable AI-Generated News Websites
+            https://www.newsguardtech.com/misinformation-monitor/june-2023/
+
+        and so including both in the same bib item
+            see:
+            https://github.com/pjmattingly/research-repute/tree/main/bib/Junk%20websites%20filled%20with%20AI-generated%20text%20are%20pulling%20in%20money%20from%20programmatic%20ads
+
+        next,
+
+        reading
+        Junk websites filled with AI-generated text are pulling in money from programmatic ads
+
+    TODO, reading, "Gödel, Escher, Bach, and AI"
+        see:
+        https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/
+    
+
+
 ----------------
 
 IDEAs
@@ -402,6 +516,27 @@ IDEAs
     idea, is this a tragedy of the commons?
         Those that see profit in the shared space of the Internet, have every reason to exploit it and little reason to preserve it
         While those that seek to exchange information and make connection do have reason to preserve it
+
+    idea, why not make a rough copy of an existing site and use that for serving ads or some other purpose
+        as seen in
+            Funding the Next Generation of Content Farms:
+            Some of the World’s Largest Blue Chip Brands Unintentionally Support the Spread of Unreliable AI-Generated News Websites
+            https://www.newsguardtech.com/misinformation-monitor/june-2023/
+
+        they note sites that make money by serving low effort content or plagarised content
+        the authors were able to catch the sites, because they were low quality and had content that was easily detected as low effort or plagarized
+        
+        but what about copying a real site, and then just paraphrasing the articles as they come out
+
+        this way it becomes difficult to detect that the fake sites is fake
+        since its release cadence mimics that of the real site
+        and its content is just plagarised from the real site
+        so the article seem real, the authors can seem real, the release cadence can seem real, the layout can seem real as it is real (lifted from the host site)
+
+        that should make such sites almost impossible to detect
+        then with slight alterations to the site's appearance, it can be just different enough to make detection of it as an exact duplicate very difficult to detect
+
+        I wonder if an LLM could "rephrase" the site code as well as the content?
 
 ----------------
 
